@@ -1,0 +1,2051 @@
+ID,Version,Data,Name,Properties,Flags,Heightmaps
+1,,0,stone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,granite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,polished_granite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,diorite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,polished_diorite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,andesite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,polished_andesite,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+2,,,grass_block,,CONNECT | SNOWY | REDSTONE_BREAK,MB | LB | OF
+3,,0,dirt,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,coarse_dirt,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,podzol,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+4,,,cobblestone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+5,,0,oak_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,spruce_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,birch_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,jungle_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,acacia_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,dark_oak_planks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+6,,0,oak_sapling,stage=0,,
+,,1,spruce_sapling,stage=0,,
+,,2,birch_sapling,stage=0,,
+,,3,jungle_sapling,stage=0,,
+,,4,acacia_sapling,stage=0,,
+,,5,dark_oak_sapling,stage=0,,
+,,8,oak_sapling,stage=1,,
+,,9,spruce_sapling,stage=1,,
+,,10,birch_sapling,stage=1,,
+,,11,jungle_sapling,stage=1,,
+,,12,acacia_sapling,stage=1,,
+,,13,dark_oak_sapling,stage=1,,
+7,,,bedrock,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+8,,0,flowing_water,level=0,,MB | LB
+,,1,flowing_water,level=1,,MB | LB
+,,2,flowing_water,level=2,,MB | LB
+,,3,flowing_water,level=3,,MB | LB
+,,4,flowing_water,level=4,,MB | LB
+,,5,flowing_water,level=5,,MB | LB
+,,6,flowing_water,level=6,,MB | LB
+,,7,flowing_water,level=7,,MB | LB
+,,8,flowing_water,level=8,,MB | LB
+,,9,flowing_water,level=9,,MB | LB
+,,10,flowing_water,level=10,,MB | LB
+,,11,flowing_water,level=11,,MB | LB
+,,12,flowing_water,level=12,,MB | LB
+,,13,flowing_water,level=13,,MB | LB
+,,14,flowing_water,level=14,,MB | LB
+,,15,flowing_water,level=15,,MB | LB
+9,,0,water,level=0,,MB | LB
+,,1,water,level=1,,MB | LB
+,,2,water,level=2,,MB | LB
+,,3,water,level=3,,MB | LB
+,,4,water,level=4,,MB | LB
+,,5,water,level=5,,MB | LB
+,,6,water,level=6,,MB | LB
+,,7,water,level=7,,MB | LB
+,,8,water,level=8,,MB | LB
+,,9,water,level=9,,MB | LB
+,,10,water,level=10,,MB | LB
+,,11,water,level=11,,MB | LB
+,,12,water,level=12,,MB | LB
+,,13,water,level=13,,MB | LB
+,,14,water,level=14,,MB | LB
+,,15,water,level=15,,MB | LB
+10,,0,lava,level=0,,MB | LB
+,,1,flowing_lava,level=1,,MB | LB
+,,2,flowing_lava,level=2,,MB | LB
+,,3,flowing_lava,level=3,,MB | LB
+,,4,flowing_lava,level=4,,MB | LB
+,,5,flowing_lava,level=5,,MB | LB
+,,6,flowing_lava,level=6,,MB | LB
+,,7,flowing_lava,level=7,,MB | LB
+,,8,flowing_lava,level=8,,MB | LB
+,,9,flowing_lava,level=9,,MB | LB
+,,10,flowing_lava,level=10,,MB | LB
+,,11,flowing_lava,level=11,,MB | LB
+,,12,flowing_lava,level=12,,MB | LB
+,,13,flowing_lava,level=13,,MB | LB
+,,14,flowing_lava,level=14,,MB | LB
+,,15,flowing_lava,level=15,,MB | LB
+11,,0,lava,level=0,,MB | LB
+,,1,lava,level=1,,MB | LB
+,,2,lava,level=2,,MB | LB
+,,3,lava,level=3,,MB | LB
+,,4,lava,level=4,,MB | LB
+,,5,lava,level=5,,MB | LB
+,,6,lava,level=6,,MB | LB
+,,7,lava,level=7,,MB | LB
+,,8,lava,level=8,,MB | LB
+,,9,lava,level=9,,MB | LB
+,,10,lava,level=10,,MB | LB
+,,11,lava,level=11,,MB | LB
+,,12,lava,level=12,,MB | LB
+,,13,lava,level=13,,MB | LB
+,,14,lava,level=14,,MB | LB
+,,15,lava,level=15,,MB | LB
+12,,0,sand,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,red_sand,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+13,,,gravel,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+14,,,gold_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+15,,,iron_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+16,,,coal_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+17,,0,oak_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,spruce_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,birch_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,jungle_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,oak_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,spruce_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,birch_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,jungle_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,oak_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,spruce_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,birch_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,jungle_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,oak_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,spruce_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,birch_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,jungle_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+18,,0,oak_leaves,persistent=true,,MB | LEAVES
+,,1,spruce_leaves,persistent=true,,MB | LEAVES
+,,2,birch_leaves,persistent=true,,MB | LEAVES
+,,3,jungle_leaves,persistent=true,,MB | LEAVES
+,,4,oak_leaves,persistent=true,,MB | LEAVES
+,,5,spruce_leaves,persistent=true,,MB | LEAVES
+,,6,birch_leaves,persistent=true,,MB | LEAVES
+,,7,jungle_leaves,persistent=true,,MB | LEAVES
+,,8,oak_leaves,persistent=false,,MB | LEAVES
+,,9,spruce_leaves,persistent=false,,MB | LEAVES
+,,10,birch_leaves,persistent=false,,MB | LEAVES
+,,11,jungle_leaves,persistent=false,,MB | LEAVES
+,,12,oak_leaves,persistent=true,,MB | LEAVES
+,,13,spruce_leaves,persistent=true,,MB | LEAVES
+,,14,birch_leaves,persistent=true,,MB | LEAVES
+,,15,jungle_leaves,persistent=true,,MB | LEAVES
+19,,0,sponge,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,wet_sponge,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+20,,,glass,,CONNECT,MB | OF
+21,,,lapis_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+22,,,lapis_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+23,,0,dispenser,facing=down | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,dispenser,facing=up | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,dispenser,facing=north | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,dispenser,facing=south | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,dispenser,facing=west | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,dispenser,facing=east | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,8,dispenser,facing=down | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,9,dispenser,facing=up | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,10,dispenser,facing=north | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,11,dispenser,facing=south | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,12,dispenser,facing=west | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,13,dispenser,facing=east | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+24,,0,sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,chiseled_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,cut_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+25,,,note_block,,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+26,,0,red_bed,facing=south | occupied=false | part=foot,TILE_ENTITY,MB | LB | OF
+,,1,red_bed,facing=west | occupied=false | part=foot,TILE_ENTITY,MB | LB | OF
+,,2,red_bed,facing=north | occupied=false | part=foot,TILE_ENTITY,MB | LB | OF
+,,3,red_bed,facing=east | occupied=false | part=foot,TILE_ENTITY,MB | LB | OF
+,,4,red_bed,facing=south | occupied=true | part=foot,TILE_ENTITY,MB | LB | OF
+,,5,red_bed,facing=west | occupied=true | part=foot,TILE_ENTITY,MB | LB | OF
+,,6,red_bed,facing=north | occupied=true | part=foot,TILE_ENTITY,MB | LB | OF
+,,7,red_bed,facing=east | occupied=true | part=foot,TILE_ENTITY,MB | LB | OF
+,,8,red_bed,facing=south | occupied=false | part=head,TILE_ENTITY,MB | LB | OF
+,,9,red_bed,facing=west | occupied=false | part=head,TILE_ENTITY,MB | LB | OF
+,,10,red_bed,facing=north | occupied=false | part=head,TILE_ENTITY,MB | LB | OF
+,,11,red_bed,facing=east | occupied=false | part=head,TILE_ENTITY,MB | LB | OF
+,,12,red_bed,facing=south | occupied=true | part=head,TILE_ENTITY,MB | LB | OF
+,,13,red_bed,facing=west | occupied=true | part=head,TILE_ENTITY,MB | LB | OF
+,,14,red_bed,facing=north | occupied=true | part=head,TILE_ENTITY,MB | LB | OF
+,,15,red_bed,facing=east | occupied=true | part=head,TILE_ENTITY,MB | LB | OF
+27,,0,powered_rail,powered=false | shape=north_south,,
+,,1,powered_rail,powered=false | shape=east_west,,
+,,2,powered_rail,powered=false | shape=ascending_east,,
+,,3,powered_rail,powered=false | shape=ascending_west,,
+,,4,powered_rail,powered=false | shape=ascending_north,,
+,,5,powered_rail,powered=false | shape=ascending_south,,
+,,8,powered_rail,powered=true | shape=north_south,,
+,,9,powered_rail,powered=true | shape=east_west,,
+,,10,powered_rail,powered=true | shape=ascending_east,,
+,,11,powered_rail,powered=true | shape=ascending_west,,
+,,12,powered_rail,powered=true | shape=ascending_north,,
+,,13,powered_rail,powered=true | shape=ascending_south,,
+28,,0,detector_rail,powered=false | shape=north_south,REDSTONE_CONNECT,
+,,1,detector_rail,powered=false | shape=east_west,REDSTONE_CONNECT,
+,,2,detector_rail,powered=false | shape=ascending_east,REDSTONE_CONNECT,
+,,3,detector_rail,powered=false | shape=ascending_west,REDSTONE_CONNECT,
+,,4,detector_rail,powered=false | shape=ascending_north,REDSTONE_CONNECT,
+,,5,detector_rail,powered=false | shape=ascending_south,REDSTONE_CONNECT,
+,,8,detector_rail,powered=true | shape=north_south,REDSTONE_CONNECT,
+,,9,detector_rail,powered=true | shape=east_west,REDSTONE_CONNECT,
+,,10,detector_rail,powered=true | shape=ascending_east,REDSTONE_CONNECT,
+,,11,detector_rail,powered=true | shape=ascending_west,REDSTONE_CONNECT,
+,,12,detector_rail,powered=true | shape=ascending_north,REDSTONE_CONNECT,
+,,13,detector_rail,powered=true | shape=ascending_south,REDSTONE_CONNECT,
+29,,0,sticky_piston,extended=false | facing=down,CONNECT,MB | LB | OF
+,,1,sticky_piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,2,sticky_piston,extended=false | facing=north,CONNECT,MB | LB | OF
+,,3,sticky_piston,extended=false | facing=south,CONNECT,MB | LB | OF
+,,4,sticky_piston,extended=false | facing=west,CONNECT,MB | LB | OF
+,,5,sticky_piston,extended=false | facing=east,CONNECT,MB | LB | OF
+,,6,sticky_piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,7,sticky_piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,8,sticky_piston,extended=true | facing=down,CONNECT,MB | LB | OF
+,,9,sticky_piston,extended=true | facing=up,CONNECT,MB | LB | OF
+,,10,sticky_piston,extended=true | facing=north,CONNECT,MB | LB | OF
+,,11,sticky_piston,extended=true | facing=south,CONNECT,MB | LB | OF
+,,12,sticky_piston,extended=true | facing=west,CONNECT,MB | LB | OF
+,,13,sticky_piston,extended=true | facing=east,CONNECT,MB | LB | OF
+,,14,sticky_piston,extended=true | facing=up,CONNECT,MB | LB | OF
+,,15,sticky_piston,extended=true | facing=up,CONNECT,MB | LB | OF
+30,,,cobweb,,,
+31,,0,dead_bush,,,
+,,1,grass,,,
+,,2,fern,,,
+32,,,dead_bush,,,
+33,,0,piston,extended=false | facing=down,CONNECT,MB | LB | OF
+,,1,piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,2,piston,extended=false | facing=north,CONNECT,MB | LB | OF
+,,3,piston,extended=false | facing=south,CONNECT,MB | LB | OF
+,,4,piston,extended=false | facing=west,CONNECT,MB | LB | OF
+,,5,piston,extended=false | facing=east,CONNECT,MB | LB | OF
+,,6,piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,7,piston,extended=false | facing=up,CONNECT,MB | LB | OF
+,,8,piston,extended=true | facing=down,CONNECT,MB | LB | OF
+,,9,piston,extended=true | facing=up,CONNECT,MB | LB | OF
+,,10,piston,extended=true | facing=north,CONNECT,MB | LB | OF
+,,11,piston,extended=true | facing=south,CONNECT,MB | LB | OF
+,,12,piston,extended=true | facing=west,CONNECT,MB | LB | OF
+,,13,piston,extended=true | facing=east,CONNECT,MB | LB | OF
+,,14,piston,extended=true | facing=up,CONNECT,MB | LB | OF
+,,15,piston,extended=true | facing=up,CONNECT,MB | LB | OF
+34,,0,piston_head,type=normal | facing=down,,MB | LB | OF
+,,1,piston_head,type=normal | facing=up,,MB | LB | OF
+,,2,piston_head,type=normal | facing=north,,MB | LB | OF
+,,3,piston_head,type=normal | facing=south,,MB | LB | OF
+,,4,piston_head,type=normal | facing=west,,MB | LB | OF
+,,5,piston_head,type=normal | facing=east,,MB | LB | OF
+,,6,piston_head,type=normal | facing=up,,MB | LB | OF
+,,7,piston_head,type=normal | facing=up,,MB | LB | OF
+,,8,piston_head,type=sticky | facing=down,,MB | LB | OF
+,,9,piston_head,type=sticky | facing=up,,MB | LB | OF
+,,10,piston_head,type=sticky | facing=north,,MB | LB | OF
+,,11,piston_head,type=sticky | facing=south,,MB | LB | OF
+,,12,piston_head,type=sticky | facing=west,,MB | LB | OF
+,,13,piston_head,type=sticky | facing=east,,MB | LB | OF
+,,14,piston_head,type=sticky | facing=up,,MB | LB | OF
+,,15,piston_head,type=sticky | facing=up,,MB | LB | OF
+35,,0,white_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,orange_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,magenta_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_blue_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,yellow_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,lime_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,pink_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,gray_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,light_gray_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,cyan_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,purple_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,blue_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,brown_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,green_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,red_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,black_wool,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+36,,0,moving_piston,type=normal | facing=down,,
+,,1,moving_piston,type=normal | facing=up,,
+,,2,moving_piston,type=normal | facing=north,,
+,,3,moving_piston,type=normal | facing=south,,
+,,4,moving_piston,type=normal | facing=west,,
+,,5,moving_piston,type=normal | facing=east,,
+,,6,moving_piston,type=normal | facing=up,,
+,,7,moving_piston,type=normal | facing=up,,
+,,8,moving_piston,type=sticky | facing=down,,
+,,9,moving_piston,type=sticky | facing=up,,
+,,10,moving_piston,type=sticky | facing=north,,
+,,11,moving_piston,type=sticky | facing=south,,
+,,12,moving_piston,type=sticky | facing=west,,
+,,13,moving_piston,type=sticky | facing=east,,
+,,14,moving_piston,type=sticky | facing=up,,
+,,15,moving_piston,type=sticky | facing=up,,
+37,,,dandelion,,,
+38,,0,poppy,,,
+,,1,blue_orchid,,,
+,,2,allium,,,
+,,3,azure_bluet,,,
+,,4,red_tulip,,,
+,,5,orange_tulip,,,
+,,6,white_tulip,,,
+,,7,pink_tulip,,,
+,,8,oxeye_daisy,,,
+39,,,brown_mushroom,,,
+40,,,red_mushroom,,,
+41,,,gold_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+42,,,iron_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+43,,0,stone_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,sandstone_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,petrified_oak_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,cobblestone_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,brick_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,stone_brick_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,nether_brick_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,quartz_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,smooth_stone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,smooth_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,smooth_quartz,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+44,,0,stone_slab,type=bottom,,MB | LB | OF
+,,1,sandstone_slab,type=bottom,,MB | LB | OF
+,,2,petrified_oak_slab,type=bottom,,MB | LB | OF
+,,3,cobblestone_slab,type=bottom,,MB | LB | OF
+,,4,brick_slab,type=bottom,,MB | LB | OF
+,,5,stone_brick_slab,type=bottom,,MB | LB | OF
+,,6,nether_brick_slab,type=bottom,,MB | LB | OF
+,,7,quartz_slab,type=bottom,,MB | LB | OF
+,,8,stone_slab,type=top,,MB | LB | OF
+,,9,sandstone_slab,type=top,,MB | LB | OF
+,,10,petrified_oak_slab,type=top,,MB | LB | OF
+,,11,cobblestone_slab,type=top,,MB | LB | OF
+,,12,brick_slab,type=top,,MB | LB | OF
+,,13,stone_brick_slab,type=top,,MB | LB | OF
+,,14,nether_brick_slab,type=top,,MB | LB | OF
+,,15,quartz_slab,type=top,,MB | LB | OF
+45,,,bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+46,,0,tnt,unstable=false,CONNECT,MB | LB | OF
+,,1,tnt,unstable=true,CONNECT,MB | LB | OF
+47,,,bookshelf,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+48,,,mossy_cobblestone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+49,,,obsidian,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+50,,0,torch,,WALL_CONNECT,
+,,1,wall_torch,facing=east,,
+,,2,wall_torch,facing=west,,
+,,3,wall_torch,facing=south,,
+,,4,wall_torch,facing=north,,
+,,5,torch,,WALL_CONNECT,
+51,,0,fire,age=0,FIRE,
+,,1,fire,age=1,FIRE,
+,,2,fire,age=2,FIRE,
+,,3,fire,age=3,FIRE,
+,,4,fire,age=4,FIRE,
+,,5,fire,age=5,FIRE,
+,,6,fire,age=6,FIRE,
+,,7,fire,age=7,FIRE,
+,,8,fire,age=8,FIRE,
+,,9,fire,age=9,FIRE,
+,,10,fire,age=10,FIRE,
+,,11,fire,age=11,FIRE,
+,,12,fire,age=12,FIRE,
+,,13,fire,age=13,FIRE,
+,,14,fire,age=14,FIRE,
+,,15,fire,age=15,FIRE,
+52,,,spawner,,CONNECT | TILE_ENTITY,MB | OF
+53,,0,oak_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,oak_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,oak_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,oak_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,oak_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,oak_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,oak_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,oak_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+54,,0,chest,facing=north,CHEST_N | TILE_ENTITY,MB | LB | OF
+,,2,chest,facing=north,CHEST_N | TILE_ENTITY,MB | LB | OF
+,,3,chest,facing=south,CHEST_S | TILE_ENTITY,MB | LB | OF
+,,4,chest,facing=west,CHEST_W | TILE_ENTITY,MB | LB | OF
+,,5,chest,facing=east,CHEST_E | TILE_ENTITY,MB | LB | OF
+55,,0,redstone_wire,power=0,REDSTONE,
+,,1,redstone_wire,power=1,REDSTONE,
+,,2,redstone_wire,power=2,REDSTONE,
+,,3,redstone_wire,power=3,REDSTONE,
+,,4,redstone_wire,power=4,REDSTONE,
+,,5,redstone_wire,power=5,REDSTONE,
+,,6,redstone_wire,power=6,REDSTONE,
+,,7,redstone_wire,power=7,REDSTONE,
+,,8,redstone_wire,power=8,REDSTONE,
+,,9,redstone_wire,power=9,REDSTONE,
+,,10,redstone_wire,power=10,REDSTONE,
+,,11,redstone_wire,power=11,REDSTONE,
+,,12,redstone_wire,power=12,REDSTONE,
+,,13,redstone_wire,power=13,REDSTONE,
+,,14,redstone_wire,power=14,REDSTONE,
+,,15,redstone_wire,power=15,REDSTONE,
+56,,,diamond_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+57,,,diamond_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+58,,,crafting_table,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+59,,0,wheat,age=0,,
+,,1,wheat,age=1,,
+,,2,wheat,age=2,,
+,,3,wheat,age=3,,
+,,4,wheat,age=4,,
+,,5,wheat,age=5,,
+,,6,wheat,age=6,,
+,,7,wheat,age=7,,
+60,,0,farmland,moisture=0,CONNECT,MB | LB | OF
+,,1,farmland,moisture=1,CONNECT,MB | LB | OF
+,,2,farmland,moisture=2,CONNECT,MB | LB | OF
+,,3,farmland,moisture=3,CONNECT,MB | LB | OF
+,,4,farmland,moisture=4,CONNECT,MB | LB | OF
+,,5,farmland,moisture=5,CONNECT,MB | LB | OF
+,,6,farmland,moisture=6,CONNECT,MB | LB | OF
+,,7,farmland,moisture=7,CONNECT,MB | LB | OF
+61,,2,furnace,facing=north | lit=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,furnace,facing=south | lit=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,furnace,facing=west | lit=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,furnace,facing=east | lit=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+62,,2,furnace,facing=north | lit=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,furnace,facing=south | lit=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,furnace,facing=west | lit=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,furnace,facing=east | lit=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+63,,0,sign,rotation=0,TILE_ENTITY,
+,,1,sign,rotation=1,TILE_ENTITY,
+,,2,sign,rotation=2,TILE_ENTITY,
+,,3,sign,rotation=3,TILE_ENTITY,
+,,4,sign,rotation=4,TILE_ENTITY,
+,,5,sign,rotation=5,TILE_ENTITY,
+,,6,sign,rotation=6,TILE_ENTITY,
+,,7,sign,rotation=7,TILE_ENTITY,
+,,8,sign,rotation=8,TILE_ENTITY,
+,,9,sign,rotation=9,TILE_ENTITY,
+,,10,sign,rotation=10,TILE_ENTITY,
+,,11,sign,rotation=11,TILE_ENTITY,
+,,12,sign,rotation=12,TILE_ENTITY,
+,,13,sign,rotation=13,TILE_ENTITY,
+,,14,sign,rotation=14,TILE_ENTITY,
+,,15,sign,rotation=15,TILE_ENTITY,
+64,,0,oak_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,oak_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,oak_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,oak_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,oak_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,oak_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,oak_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,oak_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,oak_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,oak_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,oak_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,oak_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,oak_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,oak_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,oak_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,oak_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+65,,2,ladder,facing=north,,MB
+,,3,ladder,facing=south,,MB
+,,4,ladder,facing=west,,MB
+,,5,ladder,facing=east,,MB
+66,,0,rail,shape=north_south,,
+,,1,rail,shape=east_west,,
+,,2,rail,shape=ascending_east,,
+,,3,rail,shape=ascending_west,,
+,,4,rail,shape=ascending_north,,
+,,5,rail,shape=ascending_south,,
+,,6,rail,shape=south_east,,
+,,7,rail,shape=south_west,,
+,,8,rail,shape=north_west,,
+,,9,rail,shape=north_east,,
+67,,0,cobblestone_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,cobblestone_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,cobblestone_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,cobblestone_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,cobblestone_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,cobblestone_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,cobblestone_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,cobblestone_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+68,,2,wall_sign,facing=north,TILE_ENTITY,
+,,3,wall_sign,facing=south,TILE_ENTITY,
+,,4,wall_sign,facing=west,TILE_ENTITY,
+,,5,wall_sign,facing=east,TILE_ENTITY,
+69,,0,lever,face=ceiling | facing=east | powered=false,REDSTONE_CONNECT,
+,,1,lever,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,lever,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,lever,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,lever,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,lever,face=floor | facing=south | powered=false,REDSTONE_CONNECT,
+,,6,lever,face=floor | facing=east | powered=false,REDSTONE_CONNECT,
+,,7,lever,face=ceiling | facing=south | powered=false,REDSTONE_CONNECT,
+,,8,lever,face=ceiling | facing=east | powered=true,REDSTONE_CONNECT,
+,,9,lever,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,lever,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,lever,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,lever,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,lever,face=floor | facing=south | powered=true,REDSTONE_CONNECT,
+,,14,lever,face=floor | facing=east | powered=true,REDSTONE_CONNECT,
+,,15,lever,face=ceiling | facing=south | powered=true,REDSTONE_CONNECT,
+70,,0,stone_pressure_plate,powered=false,REDSTONE_CONNECT,
+,,1,stone_pressure_plate,powered=true,REDSTONE_CONNECT,
+71,,0,iron_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,iron_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,iron_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,iron_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,iron_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,iron_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,iron_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,iron_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,iron_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,iron_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,iron_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,iron_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,iron_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,iron_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,iron_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,iron_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+72,,0,oak_pressure_plate,powered=false,REDSTONE_CONNECT,
+,,1,oak_pressure_plate,powered=true,REDSTONE_CONNECT,
+73,,,redstone_ore,lit=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+74,,,redstone_ore,lit=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+75,,1,redstone_wall_torch,facing=east | lit=false,REDSTONE_CONNECT,
+,,2,redstone_wall_torch,facing=west | lit=false,REDSTONE_CONNECT,
+,,3,redstone_wall_torch,facing=south | lit=false,REDSTONE_CONNECT,
+,,4,redstone_wall_torch,facing=north | lit=false,REDSTONE_CONNECT,
+,,5,redstone_torch,lit=false,REDSTONE_CONNECT | WALL_CONNECT,
+76,,1,redstone_wall_torch,facing=east | lit=true,REDSTONE_CONNECT,
+,,2,redstone_wall_torch,facing=west | lit=true,REDSTONE_CONNECT,
+,,3,redstone_wall_torch,facing=south | lit=true,REDSTONE_CONNECT,
+,,4,redstone_wall_torch,facing=north | lit=true,REDSTONE_CONNECT,
+,,5,redstone_torch,lit=true,REDSTONE_CONNECT | WALL_CONNECT,
+77,,0,stone_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,stone_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,stone_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,stone_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,stone_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,stone_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,stone_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,stone_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,stone_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,stone_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,stone_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,stone_button,face=floor | powered=true,REDSTONE_CONNECT,
+78,,0,snow,layers=1,SNOW,
+,,1,snow,layers=2,SNOW,
+,,2,snow,layers=3,SNOW,
+,,3,snow,layers=4,SNOW,
+,,4,snow,layers=5,SNOW,
+,,5,snow,layers=6,SNOW,
+,,6,snow,layers=7,SNOW,
+,,7,snow,layers=8,SNOW,
+79,,,ice,,,MB | LB | OF
+80,,,snow_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+81,,0,cactus,age=0,,MB | LB | OF
+,,1,cactus,age=1,,MB | LB | OF
+,,2,cactus,age=2,,MB | LB | OF
+,,3,cactus,age=3,,MB | LB | OF
+,,4,cactus,age=4,,MB | LB | OF
+,,5,cactus,age=5,,MB | LB | OF
+,,6,cactus,age=6,,MB | LB | OF
+,,7,cactus,age=7,,MB | LB | OF
+,,8,cactus,age=8,,MB | LB | OF
+,,9,cactus,age=9,,MB | LB | OF
+,,10,cactus,age=10,,MB | LB | OF
+,,11,cactus,age=11,,MB | LB | OF
+,,12,cactus,age=12,,MB | LB | OF
+,,13,cactus,age=13,,MB | LB | OF
+,,14,cactus,age=14,,MB | LB | OF
+,,15,cactus,age=15,,MB | LB | OF
+82,,,clay,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+83,,0,sugar_cane,age=0,,
+,,1,sugar_cane,age=1,,
+,,2,sugar_cane,age=2,,
+,,3,sugar_cane,age=3,,
+,,4,sugar_cane,age=4,,
+,,5,sugar_cane,age=5,,
+,,6,sugar_cane,age=6,,
+,,7,sugar_cane,age=7,,
+,,8,sugar_cane,age=8,,
+,,9,sugar_cane,age=9,,
+,,10,sugar_cane,age=10,,
+,,11,sugar_cane,age=11,,
+,,12,sugar_cane,age=12,,
+,,13,sugar_cane,age=13,,
+,,14,sugar_cane,age=14,,
+,,15,sugar_cane,age=15,,
+84,,0,jukebox,has_record=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,jukebox,has_record=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+85,,,oak_fence,,FENCE,MB
+86,,0,carved_pumpkin,facing=south,PUMPKIN | REDSTONE_BREAK,MB | LB | OF
+,,1,carved_pumpkin,facing=west,PUMPKIN | REDSTONE_BREAK,MB | LB | OF
+,,2,carved_pumpkin,facing=north,PUMPKIN | REDSTONE_BREAK,MB | LB | OF
+,,3,carved_pumpkin,facing=east,PUMPKIN | REDSTONE_BREAK,MB | LB | OF
+87,,,netherrack,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+88,,,soul_sand,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+89,,,glowstone,,CONNECT,MB | LB | OF
+90,,0,nether_portal,axis=z,,
+,,1,nether_portal,axis=x,,
+,,2,nether_portal,axis=z,,
+91,,0,jack_o_lantern,facing=south,REDSTONE_BREAK,MB | LB | OF
+,,1,jack_o_lantern,facing=west,REDSTONE_BREAK,MB | LB | OF
+,,2,jack_o_lantern,facing=north,REDSTONE_BREAK,MB | LB | OF
+,,3,jack_o_lantern,facing=east,REDSTONE_BREAK,MB | LB | OF
+92,,0,cake,bites=0,,MB
+,,1,cake,bites=1,,MB
+,,2,cake,bites=2,,MB
+,,3,cake,bites=3,,MB
+,,4,cake,bites=4,,MB
+,,5,cake,bites=5,,MB
+,,6,cake,bites=6,,MB
+93,,0,repeater,delay=1 | facing=south | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S,MB
+,,1,repeater,delay=1 | facing=west | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W,MB
+,,2,repeater,delay=1 | facing=north | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N,MB
+,,3,repeater,delay=1 | facing=east | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E,MB
+,,4,repeater,delay=2 | facing=south | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S,MB
+,,5,repeater,delay=2 | facing=west | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W,MB
+,,6,repeater,delay=2 | facing=north | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N,MB
+,,7,repeater,delay=2 | facing=east | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E,MB
+,,8,repeater,delay=3 | facing=south | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S,MB
+,,9,repeater,delay=3 | facing=west | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W,MB
+,,10,repeater,delay=3 | facing=north | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N,MB
+,,11,repeater,delay=3 | facing=east | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E,MB
+,,12,repeater,delay=4 | facing=south | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S,MB
+,,13,repeater,delay=4 | facing=west | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W,MB
+,,14,repeater,delay=4 | facing=north | powered=false,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N,MB
+,,15,repeater,delay=4 | facing=east | powered=false,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E,MB
+94,,0,repeater,delay=1 | facing=south | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S | REPEATER_ON,MB
+,,1,repeater,delay=1 | facing=west | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W | REPEATER_ON,MB
+,,2,repeater,delay=1 | facing=north | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N | REPEATER_ON,MB
+,,3,repeater,delay=1 | facing=east | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E | REPEATER_ON,MB
+,,4,repeater,delay=1 | facing=south | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S | REPEATER_ON,MB
+,,5,repeater,delay=2 | facing=west | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W | REPEATER_ON,MB
+,,6,repeater,delay=2 | facing=north | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N | REPEATER_ON,MB
+,,7,repeater,delay=2 | facing=east | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E | REPEATER_ON,MB
+,,8,repeater,delay=3 | facing=south | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S | REPEATER_ON,MB
+,,9,repeater,delay=3 | facing=west | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W | REPEATER_ON,MB
+,,10,repeater,delay=3 | facing=north | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N | REPEATER_ON,MB
+,,11,repeater,delay=3 | facing=east | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E | REPEATER_ON,MB
+,,12,repeater,delay=4 | facing=south | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_S | REPEATER_ON,MB
+,,13,repeater,delay=4 | facing=west | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_W | REPEATER_ON,MB
+,,14,repeater,delay=4 | facing=north | powered=true,REDSTONE_CONNECT_N | REDSTONE_CONNECT_S | REPEATER_N | REPEATER_ON,MB
+,,15,repeater,delay=4 | facing=east | powered=true,REDSTONE_CONNECT_W | REDSTONE_CONNECT_E | REPEATER_E | REPEATER_ON,MB
+95,,0,white_stained_glass,,CONNECT,MB | OF
+,,1,orange_stained_glass,,CONNECT,MB | OF
+,,2,magenta_stained_glass,,CONNECT,MB | OF
+,,3,light_blue_stained_glass,,CONNECT,MB | OF
+,,4,yellow_stained_glass,,CONNECT,MB | OF
+,,5,lime_stained_glass,,CONNECT,MB | OF
+,,6,pink_stained_glass,,CONNECT,MB | OF
+,,7,gray_stained_glass,,CONNECT,MB | OF
+,,8,light_gray_stained_glass,,CONNECT,MB | OF
+,,9,cyan_stained_glass,,CONNECT,MB | OF
+,,10,purple_stained_glass,,CONNECT,MB | OF
+,,11,blue_stained_glass,,CONNECT,MB | OF
+,,12,brown_stained_glass,,CONNECT,MB | OF
+,,13,green_stained_glass,,CONNECT,MB | OF
+,,14,red_stained_glass,,CONNECT,MB | OF
+,,15,black_stained_glass,,CONNECT,MB | OF
+96,,0,oak_trapdoor,facing=north | half=bottom | open=false,,MB | LB | OF
+,,1,oak_trapdoor,facing=south | half=bottom | open=false,,MB | LB | OF
+,,2,oak_trapdoor,facing=west | half=bottom | open=false,,MB | LB | OF
+,,3,oak_trapdoor,facing=east | half=bottom | open=false,,MB | LB | OF
+,,4,oak_trapdoor,facing=north | half=bottom | open=true,,MB | LB | OF
+,,5,oak_trapdoor,facing=south | half=bottom | open=true,,MB | LB | OF
+,,6,oak_trapdoor,facing=west | half=bottom | open=true,,MB | LB | OF
+,,7,oak_trapdoor,facing=east | half=bottom | open=true,,MB | LB | OF
+,,8,oak_trapdoor,facing=north | half=top | open=false,,MB | LB | OF
+,,9,oak_trapdoor,facing=south | half=top | open=false,,MB | LB | OF
+,,10,oak_trapdoor,facing=west | half=top | open=false,,MB | LB | OF
+,,11,oak_trapdoor,facing=east | half=top | open=false,,MB | LB | OF
+,,12,oak_trapdoor,facing=north | half=top | open=true,,MB | LB | OF
+,,13,oak_trapdoor,facing=south | half=top | open=true,,MB | LB | OF
+,,14,oak_trapdoor,facing=west | half=top | open=true,,MB | LB | OF
+,,15,oak_trapdoor,facing=east | half=top | open=true,,MB | LB | OF
+97,,0,infested_stone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,infested_cobblestone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,infested_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,infested_mossy_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,infested_cracked_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,infested_chiseled_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+98,,0,stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,mossy_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,cracked_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,chiseled_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+99,,0,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,brown_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,brown_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,brown_mushroom_block,down=true | east=false | north=false | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,brown_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,brown_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,brown_mushroom_block,down=true | east=false | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,brown_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,brown_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,brown_mushroom_block,down=true | east=false | north=true | south=false | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,brown_mushroom_block,down=false | east=true | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+100,,0,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,red_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,red_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,red_mushroom_block,down=true | east=false | north=false | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,red_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,red_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,red_mushroom_block,down=true | east=false | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,red_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,red_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,red_mushroom_block,down=true | east=false | north=true | south=false | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,red_mushroom_block,down=false | east=true | north=true | south=true | up=false | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+101,,,iron_bars,,BARS,MB
+102,,,glass_pane,,PANE,MB
+103,,,melon,,MELON | REDSTONE_BREAK,MB | LB | OF
+104,,0,pumpkin_stem,age=0,,
+,,1,pumpkin_stem,age=1,,
+,,2,pumpkin_stem,age=2,,
+,,3,pumpkin_stem,age=3,,
+,,4,pumpkin_stem,age=4,,
+,,5,pumpkin_stem,age=5,,
+,,6,pumpkin_stem,age=6,,
+,,7,pumpkin_stem,age=7,STEM_PUMPKIN,
+105,,0,melon_stem,age=0,,
+,,1,melon_stem,age=1,,
+,,2,melon_stem,age=2,,
+,,3,melon_stem,age=3,,
+,,4,melon_stem,age=4,,
+,,5,melon_stem,age=5,,
+,,6,melon_stem,age=6,,
+,,7,melon_stem,age=7,STEM_MELON,
+106,,0,vine,east=false | north=false | south=false | up=true | west=false,,
+,,1,vine,east=false | north=false | south=true | up=false | west=false,,
+,,2,vine,east=false | north=false | south=false | up=false | west=true,,
+,,3,vine,east=false | north=false | south=true | up=false | west=true,,
+,,4,vine,east=false | north=true | south=false | up=false | west=false,,
+,,5,vine,east=false | north=true | south=true | up=false | west=false,,
+,,6,vine,east=false | north=true | south=false | up=false | west=true,,
+,,7,vine,east=false | north=true | south=true | up=false | west=true,,
+,,8,vine,east=true | north=false | south=false | up=false | west=false,,
+,,9,vine,east=true | north=false | south=true | up=false | west=false,,
+,,10,vine,east=true | north=false | south=false | up=false | west=true,,
+,,11,vine,east=true | north=false | south=true | up=false | west=true,,
+,,12,vine,east=true | north=true | south=false | up=false | west=false,,
+,,13,vine,east=true | north=true | south=true | up=false | west=false,,
+,,14,vine,east=true | north=true | south=false | up=false | west=true,,
+,,15,vine,east=true | north=true | south=true | up=false | west=true,,
+107,,0,oak_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,oak_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,oak_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,oak_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,oak_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,oak_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,oak_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,oak_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,oak_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,oak_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,oak_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,oak_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,oak_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,oak_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,oak_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,oak_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+108,,0,brick_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,brick_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,brick_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,brick_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,brick_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,brick_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,brick_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,brick_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+109,,0,stone_brick_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,stone_brick_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,stone_brick_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,stone_brick_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,stone_brick_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,stone_brick_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,stone_brick_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,stone_brick_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+110,,,mycelium,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+111,,,lily_pad,,,MB
+112,,,nether_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+113,,,nether_brick_fence,,FENCE_NETHER,MB
+114,,0,nether_brick_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,nether_brick_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,nether_brick_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,nether_brick_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,nether_brick_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,nether_brick_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,nether_brick_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,nether_brick_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+115,,0,nether_wart,age=0,,
+,,1,nether_wart,age=1,,
+,,2,nether_wart,age=2,,
+,,3,nether_wart,age=3,,
+116,,,enchanting_table,,,
+117,,0,brewing_stand,has_bottle_0=false | has_bottle_1=false | has_bottle_2=false,TILE_ENTITY,MB | LB | OF
+,,1,brewing_stand,has_bottle_0=true | has_bottle_1=false | has_bottle_2=false,TILE_ENTITY,MB | LB | OF
+,,2,brewing_stand,has_bottle_0=false | has_bottle_1=true | has_bottle_2=false,TILE_ENTITY,MB | LB | OF
+,,3,brewing_stand,has_bottle_0=true | has_bottle_1=true | has_bottle_2=false,TILE_ENTITY,MB | LB | OF
+,,4,brewing_stand,has_bottle_0=false | has_bottle_1=false | has_bottle_2=true,TILE_ENTITY,MB | LB | OF
+,,5,brewing_stand,has_bottle_0=true | has_bottle_1=false | has_bottle_2=true,TILE_ENTITY,MB | LB | OF
+,,6,brewing_stand,has_bottle_0=false | has_bottle_1=true | has_bottle_2=true,TILE_ENTITY,MB | LB | OF
+,,7,brewing_stand,has_bottle_0=true | has_bottle_1=true | has_bottle_2=true,TILE_ENTITY,MB | LB | OF
+118,,0,cauldron,level=0,,MB | LB | OF
+,,1,cauldron,level=1,,MB | LB | OF
+,,2,cauldron,level=2,,MB | LB | OF
+,,3,cauldron,level=3,,MB | LB | OF
+119,,,end_portal,,TILE_ENTITY,
+120,,0,end_portal_frame,eye=false | facing=south,,MB | LB | OF
+,,1,end_portal_frame,eye=false | facing=west,,MB | LB | OF
+,,2,end_portal_frame,eye=false | facing=north,,MB | LB | OF
+,,3,end_portal_frame,eye=false | facing=east,,MB | LB | OF
+,,4,end_portal_frame,eye=true | facing=south,,MB | LB | OF
+,,5,end_portal_frame,eye=true | facing=west,,MB | LB | OF
+,,6,end_portal_frame,eye=true | facing=north,,MB | LB | OF
+,,7,end_portal_frame,eye=true | facing=east,,MB | LB | OF
+121,,,end_stone,,CONNECT | END_STONE | REDSTONE_BREAK,MB | LB | OF
+122,,,dragon_egg,,,
+123,,,redstone_lamp,lit=false,CONNECT | REDSTONE_BREAK,MB | LB | OF
+124,,,redstone_lamp,lit=true,CONNECT | REDSTONE_BREAK,MB | LB | OF
+125,,0,oak_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,spruce_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,birch_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,jungle_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,acacia_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,dark_oak_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+126,,0,oak_slab,type=bottom,,MB | LB | OF
+,,1,spruce_slab,type=bottom,,MB | LB | OF
+,,2,birch_slab,type=bottom,,MB | LB | OF
+,,3,jungle_slab,type=bottom,,MB | LB | OF
+,,4,acacia_slab,type=bottom,,MB | LB | OF
+,,5,dark_oak_slab,type=bottom,,MB | LB | OF
+,,8,oak_slab,type=top,,MB | LB | OF
+,,9,spruce_slab,type=top,,MB | LB | OF
+,,10,birch_slab,type=top,,MB | LB | OF
+,,11,jungle_slab,type=top,,MB | LB | OF
+,,12,acacia_slab,type=top,,MB | LB | OF
+,,13,dark_oak_slab,type=top,,MB | LB | OF
+127,,0,cocoa,age=0 | facing=south,,
+,,1,cocoa,age=0 | facing=west,,
+,,2,cocoa,age=0 | facing=north,,
+,,3,cocoa,age=0 | facing=east,,
+,,4,cocoa,age=1 | facing=south,,
+,,5,cocoa,age=1 | facing=west,,
+,,6,cocoa,age=1 | facing=north,,
+,,7,cocoa,age=1 | facing=east,,
+,,8,cocoa,age=2 | facing=south,,
+,,9,cocoa,age=2 | facing=west,,
+,,10,cocoa,age=2 | facing=north,,
+,,11,cocoa,age=2 | facing=east,,
+128,,0,sandstone_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,sandstone_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,sandstone_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,sandstone_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,sandstone_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,sandstone_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,sandstone_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,sandstone_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+129,,,emerald_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+130,,2,ender_chest,facing=north,TILE_ENTITY,MB | LB | OF
+,,3,ender_chest,facing=south,TILE_ENTITY,MB | LB | OF
+,,4,ender_chest,facing=west,TILE_ENTITY,MB | LB | OF
+,,5,ender_chest,facing=east,TILE_ENTITY,MB | LB | OF
+131,,0,tripwire_hook,attached=false | facing=south | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,1,tripwire_hook,attached=false | facing=west | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,2,tripwire_hook,attached=false | facing=north | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,3,tripwire_hook,attached=false | facing=east | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,4,tripwire_hook,attached=true | facing=south | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,5,tripwire_hook,attached=true | facing=west | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,6,tripwire_hook,attached=true | facing=north | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,7,tripwire_hook,attached=true | facing=east | powered=false,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,8,tripwire_hook,attached=false | facing=south | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,9,tripwire_hook,attached=false | facing=west | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,10,tripwire_hook,attached=false | facing=north | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,11,tripwire_hook,attached=false | facing=east | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,12,tripwire_hook,attached=true | facing=south | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,13,tripwire_hook,attached=true | facing=west | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,14,tripwire_hook,attached=true | facing=north | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+,,15,tripwire_hook,attached=true | facing=east | powered=true,TRIPWIRE_HOOK | REDSTONE_CONNECT,
+132,,0,tripwire,attached=false | disarmed=false | powered=false,TRIPWIRE,
+,,1,tripwire,attached=false | disarmed=false | powered=true,TRIPWIRE,
+,,2,tripwire,attached=false | disarmed=false | powered=false,TRIPWIRE,
+,,3,tripwire,attached=false | disarmed=false | powered=true,TRIPWIRE,
+,,4,tripwire,attached=true | disarmed=false | powered=false,TRIPWIRE,
+,,5,tripwire,attached=true | disarmed=false | powered=true,TRIPWIRE,
+,,6,tripwire,attached=true | disarmed=false | powered=false,TRIPWIRE,
+,,7,tripwire,attached=true | disarmed=false | powered=true,TRIPWIRE,
+,,8,tripwire,attached=false | disarmed=true | powered=false,TRIPWIRE,
+,,9,tripwire,attached=false | disarmed=true | powered=true,TRIPWIRE,
+,,10,tripwire,attached=false | disarmed=true | powered=false,TRIPWIRE,
+,,11,tripwire,attached=false | disarmed=true | powered=true,TRIPWIRE,
+,,12,tripwire,attached=true | disarmed=true | powered=false,TRIPWIRE,
+,,13,tripwire,attached=true | disarmed=true | powered=true,TRIPWIRE,
+,,14,tripwire,attached=true | disarmed=true | powered=false,TRIPWIRE,
+,,15,tripwire,attached=true | disarmed=true | powered=true,TRIPWIRE,
+133,,,emerald_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+134,,0,spruce_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,spruce_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,spruce_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,spruce_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,spruce_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,spruce_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,spruce_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,spruce_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+135,,0,birch_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,birch_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,birch_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,birch_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,birch_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,birch_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,birch_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,birch_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+136,,0,jungle_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,jungle_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,jungle_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,jungle_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,jungle_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,jungle_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,jungle_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,jungle_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+138,,,beacon,,CONNECT | TILE_ENTITY,MB | LB | OF
+139,,0,cobblestone_wall,,WALL,MB
+,,1,mossy_cobblestone_wall,,WALL,MB
+140,,0,flower_pot,,,MB
+,,1,potted_poppy,,,MB
+,,2,potted_dandelion,,,MB
+,,3,potted_oak_sapling,,,MB
+,,4,potted_spruce_sapling,,,MB
+,,5,potted_birch_sapling,,,MB
+,,6,potted_jungle_sapling,,,MB
+,,7,potted_red_mushroom,,,MB
+,,8,potted_brown_mushroom,,,MB
+,,9,potted_cactus,,,MB
+,,10,potted_dead_bush,,,MB
+,,11,potted_fern,,,MB
+141,,0,carrots,age=0,,
+,,1,carrots,age=1,,
+,,2,carrots,age=2,,
+,,3,carrots,age=3,,
+,,4,carrots,age=4,,
+,,5,carrots,age=5,,
+,,6,carrots,age=6,,
+,,7,carrots,age=7,,
+142,,0,potatoes,age=0,,
+,,1,potatoes,age=1,,
+,,2,potatoes,age=2,,
+,,3,potatoes,age=3,,
+,,4,potatoes,age=4,,
+,,5,potatoes,age=5,,
+,,6,potatoes,age=6,,
+,,7,potatoes,age=7,,
+143,,0,oak_button,face=ceiling | powered=false,,
+,,1,oak_button,face=wall | facing=east | powered=false,,
+,,2,oak_button,face=wall | facing=west | powered=false,,
+,,3,oak_button,face=wall | facing=south | powered=false,,
+,,4,oak_button,face=wall | facing=north | powered=false,,
+,,5,oak_button,face=floor | powered=false,,
+,,8,oak_button,face=ceiling | powered=true,,
+,,9,oak_button,face=wall | facing=east | powered=true,,
+,,10,oak_button,face=wall | facing=west | powered=true,,
+,,11,oak_button,face=wall | facing=south | powered=true,,
+,,12,oak_button,face=wall | facing=north | powered=true,,
+,,13,oak_button,face=floor | powered=true,,
+144,,1,skeleton_skull,rotation=0,TILE_ENTITY,MB
+,,2,skeleton_wall_skull,facing=north,TILE_ENTITY,
+,,3,skeleton_wall_skull,facing=south,TILE_ENTITY,
+,,4,skeleton_wall_skull,facing=west,TILE_ENTITY,
+,,5,skeleton_wall_skull,facing=east,TILE_ENTITY,
+145,,0,anvil,facing=north,,MB
+,,1,anvil,facing=east,,MB
+,,2,anvil,facing=south,,MB
+,,3,anvil,facing=west,,MB
+,,4,chipped_anvil,facing=north,,MB
+,,5,chipped_anvil,facing=east,,MB
+,,6,chipped_anvil,facing=south,,MB
+,,7,chipped_anvil,facing=west,,MB
+,,8,damaged_anvil,facing=north,,MB
+,,9,damaged_anvil,facing=east,,MB
+,,10,damaged_anvil,facing=south,,MB
+,,11,damaged_anvil,facing=west,,MB
+146,,2,trapped_chest,facing=north,TRAPPED_CHEST_N | REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,3,trapped_chest,facing=south,TRAPPED_CHEST_S | REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,4,trapped_chest,facing=west,TRAPPED_CHEST_W | REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,5,trapped_chest,facing=east,TRAPPED_CHEST_E | REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+147,,0,light_weighted_pressure_plate,power=0,REDSTONE_CONNECT,
+,,1,light_weighted_pressure_plate,power=1,REDSTONE_CONNECT,
+,,2,light_weighted_pressure_plate,power=2,REDSTONE_CONNECT,
+,,3,light_weighted_pressure_plate,power=3,REDSTONE_CONNECT,
+,,4,light_weighted_pressure_plate,power=4,REDSTONE_CONNECT,
+,,5,light_weighted_pressure_plate,power=5,REDSTONE_CONNECT,
+,,6,light_weighted_pressure_plate,power=6,REDSTONE_CONNECT,
+,,7,light_weighted_pressure_plate,power=7,REDSTONE_CONNECT,
+,,8,light_weighted_pressure_plate,power=8,REDSTONE_CONNECT,
+,,9,light_weighted_pressure_plate,power=9,REDSTONE_CONNECT,
+,,10,light_weighted_pressure_plate,power=10,REDSTONE_CONNECT,
+,,11,light_weighted_pressure_plate,power=11,REDSTONE_CONNECT,
+,,12,light_weighted_pressure_plate,power=12,REDSTONE_CONNECT,
+,,13,light_weighted_pressure_plate,power=13,REDSTONE_CONNECT,
+,,14,light_weighted_pressure_plate,power=14,REDSTONE_CONNECT,
+,,15,light_weighted_pressure_plate,power=15,REDSTONE_CONNECT,
+148,,0,heavy_weighted_pressure_plate,power=0,REDSTONE_CONNECT,
+,,1,heavy_weighted_pressure_plate,power=1,REDSTONE_CONNECT,
+,,2,heavy_weighted_pressure_plate,power=2,REDSTONE_CONNECT,
+,,3,heavy_weighted_pressure_plate,power=3,REDSTONE_CONNECT,
+,,4,heavy_weighted_pressure_plate,power=4,REDSTONE_CONNECT,
+,,5,heavy_weighted_pressure_plate,power=5,REDSTONE_CONNECT,
+,,6,heavy_weighted_pressure_plate,power=6,REDSTONE_CONNECT,
+,,7,heavy_weighted_pressure_plate,power=7,REDSTONE_CONNECT,
+,,8,heavy_weighted_pressure_plate,power=8,REDSTONE_CONNECT,
+,,9,heavy_weighted_pressure_plate,power=9,REDSTONE_CONNECT,
+,,10,heavy_weighted_pressure_plate,power=10,REDSTONE_CONNECT,
+,,11,heavy_weighted_pressure_plate,power=11,REDSTONE_CONNECT,
+,,12,heavy_weighted_pressure_plate,power=12,REDSTONE_CONNECT,
+,,13,heavy_weighted_pressure_plate,power=13,REDSTONE_CONNECT,
+,,14,heavy_weighted_pressure_plate,power=14,REDSTONE_CONNECT,
+,,15,heavy_weighted_pressure_plate,power=15,REDSTONE_CONNECT,
+149,,0,comparator,facing=south | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,1,comparator,facing=west | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,2,comparator,facing=north | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,3,comparator,facing=east | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,4,comparator,facing=south | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,5,comparator,facing=west | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,6,comparator,facing=north | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,7,comparator,facing=east | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,8,comparator,facing=south | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,9,comparator,facing=west | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,10,comparator,facing=north | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,11,comparator,facing=east | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,12,comparator,facing=south | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,13,comparator,facing=west | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,14,comparator,facing=north | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,15,comparator,facing=east | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+150,,0,comparator,facing=south | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,1,comparator,facing=west | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,2,comparator,facing=north | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,3,comparator,facing=east | mode=compare | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,4,comparator,facing=south | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,5,comparator,facing=west | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,6,comparator,facing=north | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,7,comparator,facing=east | mode=subtract | powered=true,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,8,comparator,facing=south | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,9,comparator,facing=west | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,10,comparator,facing=north | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,11,comparator,facing=east | mode=compare | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,12,comparator,facing=south | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,13,comparator,facing=west | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,14,comparator,facing=north | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+,,15,comparator,facing=east | mode=subtract | powered=false,REDSTONE_CONNECT | TILE_ENTITY,MB
+151,,0,daylight_detector,inverted=false | power=0,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,1,daylight_detector,inverted=false | power=1,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,2,daylight_detector,inverted=false | power=2,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,3,daylight_detector,inverted=false | power=3,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,4,daylight_detector,inverted=false | power=4,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,5,daylight_detector,inverted=false | power=5,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,6,daylight_detector,inverted=false | power=6,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,7,daylight_detector,inverted=false | power=7,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,8,daylight_detector,inverted=false | power=8,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,9,daylight_detector,inverted=false | power=9,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,10,daylight_detector,inverted=false | power=10,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,11,daylight_detector,inverted=false | power=11,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,12,daylight_detector,inverted=false | power=12,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,13,daylight_detector,inverted=false | power=13,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,14,daylight_detector,inverted=false | power=14,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,15,daylight_detector,inverted=false | power=15,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+152,,,redstone_block,,CONNECT | REDSTONE_CONNECT,MB | LB | OF
+153,,,nether_quartz_ore,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+154,,0,hopper,enabled=true | facing=down,TILE_ENTITY,MB | LB | OF
+,,2,hopper,enabled=true | facing=north,TILE_ENTITY,MB | LB | OF
+,,3,hopper,enabled=true | facing=south,TILE_ENTITY,MB | LB | OF
+,,4,hopper,enabled=true | facing=west,TILE_ENTITY,MB | LB | OF
+,,5,hopper,enabled=true | facing=east,TILE_ENTITY,MB | LB | OF
+,,8,hopper,enabled=false | facing=down,TILE_ENTITY,MB | LB | OF
+,,9,hopper,enabled=false | facing=north,TILE_ENTITY,MB | LB | OF
+,,10,hopper,enabled=false | facing=south,TILE_ENTITY,MB | LB | OF
+,,11,hopper,enabled=false | facing=west,TILE_ENTITY,MB | LB | OF
+,,12,hopper,enabled=false | facing=east,TILE_ENTITY,MB | LB | OF
+155,,0,quartz_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,chiseled_quartz_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,quartz_pillar,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,quartz_pillar,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,quartz_pillar,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+156,,0,quartz_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,quartz_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,quartz_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,quartz_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,quartz_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,quartz_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,quartz_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,quartz_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+157,,0,activator_rail,powered=false | shape=north_south,,
+,,1,activator_rail,powered=false | shape=east_west,,
+,,2,activator_rail,powered=false | shape=ascending_east,,
+,,3,activator_rail,powered=false | shape=ascending_west,,
+,,4,activator_rail,powered=false | shape=ascending_north,,
+,,5,activator_rail,powered=false | shape=ascending_south,,
+,,8,activator_rail,powered=true | shape=north_south,,
+,,9,activator_rail,powered=true | shape=east_west,,
+,,10,activator_rail,powered=true | shape=ascending_east,,
+,,11,activator_rail,powered=true | shape=ascending_west,,
+,,12,activator_rail,powered=true | shape=ascending_north,,
+,,13,activator_rail,powered=true | shape=ascending_south,,
+158,,0,dropper,facing=down | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,dropper,facing=up | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,dropper,facing=north | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,dropper,facing=south | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,dropper,facing=west | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,dropper,facing=east | triggered=false,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,8,dropper,facing=down | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,9,dropper,facing=up | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,10,dropper,facing=north | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,11,dropper,facing=south | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,12,dropper,facing=west | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,13,dropper,facing=east | triggered=true,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+159,,0,white_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,orange_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,magenta_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_blue_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,yellow_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,lime_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,pink_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,gray_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,light_gray_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,cyan_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,purple_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,blue_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,brown_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,green_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,red_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,black_terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+160,,0,white_stained_glass_pane,,PANE,MB
+,,1,orange_stained_glass_pane,,PANE,MB
+,,2,magenta_stained_glass_pane,,PANE,MB
+,,3,light_blue_stained_glass_pane,,PANE,MB
+,,4,yellow_stained_glass_pane,,PANE,MB
+,,5,lime_stained_glass_pane,,PANE,MB
+,,6,pink_stained_glass_pane,,PANE,MB
+,,7,gray_stained_glass_pane,,PANE,MB
+,,8,light_gray_stained_glass_pane,,PANE,MB
+,,9,cyan_stained_glass_pane,,PANE,MB
+,,10,purple_stained_glass_pane,,PANE,MB
+,,11,blue_stained_glass_pane,,PANE,MB
+,,12,brown_stained_glass_pane,,PANE,MB
+,,13,green_stained_glass_pane,,PANE,MB
+,,14,red_stained_glass_pane,,PANE,MB
+,,15,black_stained_glass_pane,,PANE,MB
+161,10,0,acacia_leaves,persistent=true,,MB | LEAVES
+,10,1,dark_oak_leaves,persistent=true,,MB | LEAVES
+,10,4,acacia_leaves,persistent=true,,MB | LEAVES
+,10,5,dark_oak_leaves,persistent=true,,MB | LEAVES
+,10,8,acacia_leaves,persistent=false,,MB | LEAVES
+,10,9,dark_oak_leaves,persistent=false,,MB | LEAVES
+,10,12,acacia_leaves,persistent=true,,MB | LEAVES
+,10,13,dark_oak_leaves,persistent=true,,MB | LEAVES
+,,0,acacia_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,dark_oak_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,acacia_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,dark_oak_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,acacia_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,dark_oak_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,acacia_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,dark_oak_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+162,10,0,acacia_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,1,dark_oak_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,4,acacia_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,5,dark_oak_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,8,acacia_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,9,dark_oak_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,12,acacia_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,10,13,dark_oak_wood,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,0,acacia_leaves,persistent=true,,LEAVES
+,,1,dark_oak_leaves,persistent=true,,LEAVES
+,,4,acacia_leaves,persistent=true,,LEAVES
+,,5,dark_oak_leaves,persistent=true,,LEAVES
+,,8,acacia_leaves,persistent=false,,LEAVES
+,,9,dark_oak_leaves,persistent=false,,LEAVES
+,,12,acacia_leaves,persistent=true,,LEAVES
+,,13,dark_oak_leaves,persistent=true,,LEAVES
+163,10,0,acacia_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,10,1,acacia_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,10,2,acacia_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,10,3,acacia_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,10,4,acacia_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,10,5,acacia_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,10,6,acacia_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,10,7,acacia_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+,,0,dark_oak_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,dark_oak_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,dark_oak_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,dark_oak_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,dark_oak_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,dark_oak_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,dark_oak_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,dark_oak_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+164,10,0,dark_oak_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,10,1,dark_oak_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,10,2,dark_oak_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,10,3,dark_oak_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,10,4,dark_oak_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,10,5,dark_oak_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,10,6,dark_oak_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,10,7,dark_oak_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+,,0,acacia_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,acacia_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,acacia_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,acacia_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,acacia_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,acacia_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,acacia_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,acacia_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+165,,,slime_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+166,,,barrier,,REDSTONE_BREAK,MB
+167,,0,iron_trapdoor,facing=north | half=bottom | open=false,,MB | LB | OF
+,,1,iron_trapdoor,facing=south | half=bottom | open=false,,MB | LB | OF
+,,2,iron_trapdoor,facing=west | half=bottom | open=false,,MB | LB | OF
+,,3,iron_trapdoor,facing=east | half=bottom | open=false,,MB | LB | OF
+,,4,iron_trapdoor,facing=north | half=bottom | open=true,,MB | LB | OF
+,,5,iron_trapdoor,facing=south | half=bottom | open=true,,MB | LB | OF
+,,6,iron_trapdoor,facing=west | half=bottom | open=true,,MB | LB | OF
+,,7,iron_trapdoor,facing=east | half=bottom | open=true,,MB | LB | OF
+,,8,iron_trapdoor,facing=north | half=top | open=false,,MB | LB | OF
+,,9,iron_trapdoor,facing=south | half=top | open=false,,MB | LB | OF
+,,10,iron_trapdoor,facing=west | half=top | open=false,,MB | LB | OF
+,,11,iron_trapdoor,facing=east | half=top | open=false,,MB | LB | OF
+,,12,iron_trapdoor,facing=north | half=top | open=true,,MB | LB | OF
+,,13,iron_trapdoor,facing=south | half=top | open=true,,MB | LB | OF
+,,14,iron_trapdoor,facing=west | half=top | open=true,,MB | LB | OF
+,,15,iron_trapdoor,facing=east | half=top | open=true,,MB | LB | OF
+168,,0,prismarine,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,prismarine_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,dark_prismarine,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+169,,,sea_lantern,,CONNECT,MB | LB | OF
+170,,0,hay_block,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,hay_block,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,hay_block,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+171,,0,white_carpet,,,MB
+,,1,orange_carpet,,,MB
+,,2,magenta_carpet,,,MB
+,,3,light_blue_carpet,,,MB
+,,4,yellow_carpet,,,MB
+,,5,lime_carpet,,,MB
+,,6,pink_carpet,,,MB
+,,7,gray_carpet,,,MB
+,,8,light_gray_carpet,,,MB
+,,9,cyan_carpet,,,MB
+,,10,purple_carpet,,,MB
+,,11,blue_carpet,,,MB
+,,12,brown_carpet,,,MB
+,,13,green_carpet,,,MB
+,,14,red_carpet,,,MB
+,,15,black_carpet,,,MB
+172,,,terracotta,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+173,,,coal_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+174,,,packed_ice,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+175,,0,sunflower,half=lower,,
+,,1,lilac,half=lower,PLANT_LILAC,
+,,2,rose_bush,half=lower,PLANT_ROSE_BUSH,
+,,3,large_fern,half=lower,PLANT_LARGE_FERN,
+,,4,tall_grass,half=lower,PLANT_TALL_GRASS,
+,,5,peony,half=lower,PLANT_PEONY,
+,,10,sunflower,half=upper,PLANT_DOUBLE,
+176,,0,white_banner,rotation=0,TILE_ENTITY,
+,,1,white_banner,rotation=1,TILE_ENTITY,
+,,2,white_banner,rotation=2,TILE_ENTITY,
+,,3,white_banner,rotation=3,TILE_ENTITY,
+,,4,white_banner,rotation=4,TILE_ENTITY,
+,,5,white_banner,rotation=5,TILE_ENTITY,
+,,6,white_banner,rotation=6,TILE_ENTITY,
+,,7,white_banner,rotation=7,TILE_ENTITY,
+,,8,white_banner,rotation=8,TILE_ENTITY,
+,,9,white_banner,rotation=9,TILE_ENTITY,
+,,10,white_banner,rotation=10,TILE_ENTITY,
+,,11,white_banner,rotation=11,TILE_ENTITY,
+,,12,white_banner,rotation=12,TILE_ENTITY,
+,,13,white_banner,rotation=13,TILE_ENTITY,
+,,14,white_banner,rotation=14,TILE_ENTITY,
+,,15,white_banner,rotation=15,TILE_ENTITY,
+177,,2,white_wall_banner,facing=north,TILE_ENTITY,
+,,3,white_wall_banner,facing=south,TILE_ENTITY,
+,,4,white_wall_banner,facing=west,TILE_ENTITY,
+,,5,white_wall_banner,facing=east,TILE_ENTITY,
+178,,0,daylight_detector,inverted=true | power=0,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,1,daylight_detector,inverted=true | power=1,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,2,daylight_detector,inverted=true | power=2,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,3,daylight_detector,inverted=true | power=3,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,4,daylight_detector,inverted=true | power=4,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,5,daylight_detector,inverted=true | power=5,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,6,daylight_detector,inverted=true | power=6,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,7,daylight_detector,inverted=true | power=7,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,8,daylight_detector,inverted=true | power=8,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,9,daylight_detector,inverted=true | power=9,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,10,daylight_detector,inverted=true | power=10,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,11,daylight_detector,inverted=true | power=11,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,12,daylight_detector,inverted=true | power=12,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,13,daylight_detector,inverted=true | power=13,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,14,daylight_detector,inverted=true | power=14,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+,,15,daylight_detector,inverted=true | power=15,REDSTONE_CONNECT | TILE_ENTITY,MB | LB | OF
+179,,0,red_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,chiseled_red_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,cut_red_sandstone,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+180,,0,red_sandstone_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,red_sandstone_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,red_sandstone_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,red_sandstone_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,red_sandstone_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,red_sandstone_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,red_sandstone_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,red_sandstone_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+181,,,red_sandstone_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+182,,0,red_sandstone_slab,type=bottom,,MB | LB | OF
+,,8,red_sandstone_slab,type=top,,MB | LB | OF
+183,,0,spruce_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,spruce_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,spruce_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,spruce_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,spruce_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,spruce_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,spruce_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,spruce_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,spruce_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,spruce_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,spruce_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,spruce_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,spruce_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,spruce_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,spruce_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,spruce_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+184,,0,birch_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,birch_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,birch_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,birch_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,birch_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,birch_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,birch_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,birch_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,birch_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,birch_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,birch_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,birch_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,birch_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,birch_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,birch_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,birch_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+185,,0,jungle_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,jungle_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,jungle_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,jungle_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,jungle_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,jungle_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,jungle_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,jungle_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,jungle_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,jungle_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,jungle_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,jungle_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,jungle_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,jungle_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,jungle_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,jungle_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+186,10,0,dark_oak_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,10,1,dark_oak_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,10,2,dark_oak_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,10,3,dark_oak_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,10,4,dark_oak_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,10,5,dark_oak_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,10,6,dark_oak_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,10,7,dark_oak_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,10,8,dark_oak_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,10,9,dark_oak_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,10,10,dark_oak_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,10,11,dark_oak_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,10,12,dark_oak_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,10,13,dark_oak_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,10,14,dark_oak_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,10,15,dark_oak_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,0,acacia_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,acacia_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,acacia_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,acacia_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,acacia_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,acacia_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,acacia_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,acacia_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,acacia_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,acacia_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,acacia_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,acacia_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,acacia_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,acacia_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,acacia_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,acacia_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+187,10,0,acacia_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,10,1,acacia_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,10,2,acacia_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,10,3,acacia_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,10,4,acacia_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,10,5,acacia_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,10,6,acacia_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,10,7,acacia_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,10,8,acacia_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,10,9,acacia_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,10,10,acacia_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,10,11,acacia_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,10,12,acacia_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,10,13,acacia_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,10,14,acacia_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,10,15,acacia_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,0,dark_oak_fence_gate,facing=south | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,1,dark_oak_fence_gate,facing=west | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,2,dark_oak_fence_gate,facing=north | in_wall=false | open=false,CONNECT_W | CONNECT_E,MB
+,,3,dark_oak_fence_gate,facing=east | in_wall=false | open=false,CONNECT_N | CONNECT_S,MB
+,,4,dark_oak_fence_gate,facing=south | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,5,dark_oak_fence_gate,facing=west | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,6,dark_oak_fence_gate,facing=north | in_wall=false | open=true,CONNECT_W | CONNECT_E,MB
+,,7,dark_oak_fence_gate,facing=east | in_wall=false | open=true,CONNECT_N | CONNECT_S,MB
+,,8,dark_oak_fence_gate,facing=south | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,9,dark_oak_fence_gate,facing=west | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,10,dark_oak_fence_gate,facing=north | in_wall=true | open=false,CONNECT_W | CONNECT_E,MB
+,,11,dark_oak_fence_gate,facing=east | in_wall=true | open=false,CONNECT_N | CONNECT_S,MB
+,,12,dark_oak_fence_gate,facing=south | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,13,dark_oak_fence_gate,facing=west | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+,,14,dark_oak_fence_gate,facing=north | in_wall=true | open=true,CONNECT_W | CONNECT_E,MB
+,,15,dark_oak_fence_gate,facing=east | in_wall=true | open=true,CONNECT_N | CONNECT_S,MB
+188,,,spruce_fence,,FENCE,MB
+189,,,birch_fence,,FENCE,MB
+190,,,jungle_fence,,FENCE,MB
+191,10,,dark_oak_fence,,FENCE,MB
+,,,acacia_fence,,FENCE,MB
+192,10,,acacia_fence,,FENCE,MB
+,,,dark_oak_fence,,FENCE,MB
+193,,0,spruce_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,spruce_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,spruce_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,spruce_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,spruce_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,spruce_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,spruce_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,spruce_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,spruce_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,spruce_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,spruce_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,spruce_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,spruce_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,spruce_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,spruce_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,spruce_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+194,,0,birch_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,birch_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,birch_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,birch_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,birch_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,birch_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,birch_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,birch_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,birch_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,birch_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,birch_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,birch_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,birch_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,birch_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,birch_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,birch_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+195,,0,jungle_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,jungle_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,jungle_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,jungle_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,jungle_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,jungle_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,jungle_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,jungle_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,jungle_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,jungle_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,jungle_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,jungle_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,jungle_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,jungle_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,jungle_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,jungle_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+196,,0,acacia_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,acacia_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,acacia_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,acacia_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,acacia_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,acacia_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,acacia_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,acacia_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,acacia_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,acacia_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,acacia_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,acacia_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,acacia_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,acacia_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,acacia_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,acacia_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+197,,0,dark_oak_door,facing=east | half=lower | open=false,DOOR_LOWER | DOOR_E,MB | LB | OF
+,,1,dark_oak_door,facing=south | half=lower | open=false,DOOR_LOWER | DOOR_S,MB | LB | OF
+,,2,dark_oak_door,facing=west | half=lower | open=false,DOOR_LOWER | DOOR_W,MB | LB | OF
+,,3,dark_oak_door,facing=north | half=lower | open=false,DOOR_LOWER,MB | LB | OF
+,,4,dark_oak_door,facing=east | half=lower | open=true,DOOR_LOWER | DOOR_E | DOOR_OPEN,MB | LB | OF
+,,5,dark_oak_door,facing=south | half=lower | open=true,DOOR_LOWER | DOOR_S | DOOR_OPEN,MB | LB | OF
+,,6,dark_oak_door,facing=west | half=lower | open=true,DOOR_LOWER | DOOR_W | DOOR_OPEN,MB | LB | OF
+,,7,dark_oak_door,facing=north | half=lower | open=true,DOOR_LOWER | DOOR_OPEN,MB | LB | OF
+,,8,dark_oak_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,9,dark_oak_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,10,dark_oak_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,11,dark_oak_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+,,12,dark_oak_door,half=upper | hinge=left | powered=false,DOOR_UPPER,MB | LB | OF
+,,13,dark_oak_door,half=upper | hinge=right | powered=false,DOOR_UPPER | DOOR_RIGHT,MB | LB | OF
+,,14,dark_oak_door,half=upper | hinge=left | powered=true,DOOR_UPPER | DOOR_POWERED,MB | LB | OF
+,,15,dark_oak_door,half=upper | hinge=right | powered=true,DOOR_UPPER | DOOR_RIGHT | DOOR_POWERED,MB | LB | OF
+198,,0,end_rod,facing=down,,MB
+,,1,end_rod,facing=up,,MB
+,,2,end_rod,facing=north,,MB
+,,3,end_rod,facing=south,,MB
+,,4,end_rod,facing=west,,MB
+,,5,end_rod,facing=east,,MB
+199,,,chorus_plant,,CHORUS,MB
+200,,0,chorus_flower,age=0,CONNECT | CHORUS_FLOWER,MB
+,,1,chorus_flower,age=1,CONNECT | CHORUS_FLOWER,MB
+,,2,chorus_flower,age=2,CONNECT | CHORUS_FLOWER,MB
+,,3,chorus_flower,age=3,CONNECT | CHORUS_FLOWER,MB
+,,4,chorus_flower,age=4,CONNECT | CHORUS_FLOWER,MB
+,,5,chorus_flower,age=5,CONNECT | CHORUS_FLOWER,MB
+201,,,purpur_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+202,,0,purpur_pillar,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,purpur_pillar,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,purpur_pillar,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+203,,0,purpur_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,purpur_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,purpur_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,purpur_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,purpur_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,purpur_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,purpur_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,purpur_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+204,,,purpur_slab,type=double,CONNECT,MB | LB | OF
+205,,0,purpur_slab,type=bottom,,MB | LB | OF
+,,8,purpur_slab,type=top,,MB | LB | OF
+206,,,end_stone_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+207,,0,beetroots,age=0,,
+,,1,beetroots,age=1,,
+,,2,beetroots,age=2,,
+,,3,beetroots,age=3,,
+208,,,grass_path,,,MB | LB | OF
+209,,,end_gateway,,TILE_ENTITY,
+212,,,frosted_ice,,CONNECT,MB | LB | OF
+213,,,magma_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+214,,,nether_wart_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+215,,,red_nether_bricks,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+216,,0,bone_block,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,bone_block,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,bone_block,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+218,,0,observer,facing=down | powered=false,CONNECT,MB | LB | OF
+,,1,observer,facing=up | powered=false,CONNECT,MB | LB | OF
+,,2,observer,facing=north | powered=false,CONNECT | REDSTONE_CONNECT_S,MB | LB | OF
+,,3,observer,facing=south | powered=false,CONNECT | REDSTONE_CONNECT_N,MB | LB | OF
+,,4,observer,facing=west | powered=false,CONNECT | REDSTONE_CONNECT_E,MB | LB | OF
+,,5,observer,facing=east | powered=false,CONNECT | REDSTONE_CONNECT_W,MB | LB | OF
+,,8,observer,facing=down | powered=true,CONNECT,MB | LB | OF
+,,9,observer,facing=up | powered=true,CONNECT,MB | LB | OF
+,,10,observer,facing=north | powered=true,CONNECT | REDSTONE_CONNECT_S,MB | LB | OF
+,,11,observer,facing=south | powered=true,CONNECT | REDSTONE_CONNECT_N,MB | LB | OF
+,,12,observer,facing=west | powered=true,CONNECT | REDSTONE_CONNECT_E,MB | LB | OF
+,,13,observer,facing=east | powered=true,CONNECT | REDSTONE_CONNECT_W,MB | LB | OF
+219,,0,white_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,white_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,white_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,white_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,white_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,white_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+220,,0,orange_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,orange_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,orange_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,orange_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,orange_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,orange_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+221,,0,magenta_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,magenta_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,magenta_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,magenta_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,magenta_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,magenta_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+222,,0,light_blue_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,light_blue_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,light_blue_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,light_blue_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,light_blue_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,light_blue_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+223,,0,yellow_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,yellow_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,yellow_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,yellow_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,yellow_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,yellow_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+224,,0,lime_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,lime_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,lime_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,lime_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,lime_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,lime_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+225,,0,pink_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,pink_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,pink_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,pink_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,pink_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,pink_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+226,,0,gray_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,gray_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,gray_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,gray_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,gray_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,gray_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+227,,0,light_gray_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,light_gray_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,light_gray_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,light_gray_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,light_gray_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,light_gray_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+228,,0,cyan_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,cyan_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,cyan_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,cyan_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,cyan_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,cyan_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+229,,0,purple_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,purple_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,purple_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,purple_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,purple_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,purple_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+230,,0,blue_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,blue_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,blue_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,blue_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,blue_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,blue_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+231,,0,brown_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,brown_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,brown_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,brown_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,brown_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,brown_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+232,,0,green_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,green_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,green_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,green_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,green_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,green_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+233,,0,red_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,red_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,red_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,red_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,red_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,red_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+234,,0,black_shulker_box,facing=down,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,1,black_shulker_box,facing=up,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,2,black_shulker_box,facing=north,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,3,black_shulker_box,facing=south,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,4,black_shulker_box,facing=west,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+,,5,black_shulker_box,facing=east,CONNECT | REDSTONE_BREAK | TILE_ENTITY,MB | LB | OF
+235,,0,white_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,white_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,white_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,white_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+236,,0,orange_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,orange_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,orange_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,orange_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+237,,0,magenta_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,magenta_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,magenta_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,magenta_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+238,,0,light_blue_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,light_blue_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,light_blue_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_blue_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+239,,0,yellow_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,yellow_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,yellow_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,yellow_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+240,,0,lime_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,lime_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,lime_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,lime_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+241,,0,pink_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,pink_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,pink_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,pink_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+242,,0,gray_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,gray_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,gray_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,gray_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+243,,0,light_gray_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,light_gray_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,light_gray_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_gray_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+244,,0,cyan_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,cyan_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,cyan_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,cyan_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+245,,0,purple_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,purple_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,purple_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,purple_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+246,,0,blue_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,blue_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,blue_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,blue_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+247,,0,brown_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,brown_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,brown_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,brown_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+248,,0,green_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,green_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,green_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,green_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+249,,0,red_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,red_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,red_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,red_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+250,,0,black_glazed_terracotta,facing=south,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,black_glazed_terracotta,facing=west,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,black_glazed_terracotta,facing=north,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,black_glazed_terracotta,facing=east,CONNECT | REDSTONE_BREAK,MB | LB | OF
+251,,0,white_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,orange_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,magenta_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_blue_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,yellow_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,lime_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,pink_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,gray_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,light_gray_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,cyan_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,purple_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,blue_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,brown_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,green_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,red_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,black_concrete,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+252,,0,white_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,orange_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,magenta_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,light_blue_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,yellow_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,5,lime_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,6,pink_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,7,gray_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,light_gray_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,cyan_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,purple_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,blue_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,brown_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,13,green_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,14,red_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,15,black_concrete_powder,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+256,,,conduit,,TILE_ENTITY,MB
+257,,,pumpkin,,CONNECT | REDSTONE_BREAK | PUMPKIN,MB | LB | OF
+258,,0,kelp_plant,age=0,,
+,,1,kelp_plant,age=2,,
+,,2,kelp_plant,age=3,,
+,,3,kelp_plant,age=5,,
+,,4,kelp_plant,age=7,,
+,,5,kelp_plant,age=8,,
+,,6,kelp_plant,age=10,,
+,,7,kelp_plant,age=12,,
+,,8,kelp_plant,age=13,,
+,,9,kelp_plant,age=15,,
+,,10,kelp_plant,age=17,,
+,,11,kelp_plant,age=18,,
+,,12,kelp_plant,age=20,,
+,,13,kelp_plant,age=22,,
+,,14,kelp_plant,age=23,,
+,,15,kelp,age=25,,
+259,,0,tube_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,brain_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,bubble_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,3,fire_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,horn_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,dead_tube_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,9,dead_brain_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,10,dead_bubble_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,11,dead_fire_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,12,dead_horn_coral_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+263,,0,tube_coral,,,
+,,1,brain_coral,,,
+,,2,bubble_coral,,,
+,,3,fire_coral,,,
+,,4,horn_coral,,,
+,,8,dead_tube_coral,,,
+,,9,dead_brain_coral,,,
+,,10,dead_bubble_coral,,,
+,,11,dead_fire_coral,,,
+,,12,dead_horn_coral,,,
+264,,8,tube_coral_fan,,,
+,,9,brain_coral_fan,,,
+,,10,bubble_coral_fan,,,
+,,11,fire_coral_fan,,,
+,,12,horn_coral_fan,,,
+265,,8,dead_tube_coral_fan,,,
+,,9,dead_brain_coral_fan,,,
+,,10,dead_bubble_coral_fan,,,
+,,11,dead_fire_coral_fan,,,
+,,12,dead_horn_coral_fan,,,
+266,,0,tube_coral_wall_fan,facing=west,,
+,,1,dead_tube_coral_wall_fan,facing=west,,
+,,2,brain_coral_wall_fan,facing=west,,
+,,3,dead_brain_coral_wall_fan,facing=west,,
+,,4,tube_coral_wall_fan,facing=east,,
+,,5,dead_tube_coral_wall_fan,facing=east,,
+,,6,brain_coral_wall_fan,facing=east,,
+,,7,dead_brain_coral_wall_fan,facing=east,,
+,,8,tube_coral_wall_fan,facing=north,,
+,,9,dead_tube_coral_wall_fan,facing=north,,
+,,10,brain_coral_wall_fan,facing=north,,
+,,11,dead_brain_coral_wall_fan,facing=north,,
+,,12,tube_coral_wall_fan,facing=south,,
+,,13,dead_tube_coral_wall_fan,facing=south,,
+,,14,brain_coral_wall_fan,facing=south,,
+,,15,dead_brain_coral_wall_fan,facing=south,,
+267,,0,bubble_coral_wall_fan,facing=west,,
+,,1,dead_bubble_coral_wall_fan,facing=west,,
+,,2,fire_coral_wall_fan,facing=west,,
+,,3,dead_fire_coral_wall_fan,facing=west,,
+,,4,bubble_coral_wall_fan,facing=east,,
+,,5,dead_bubble_coral_wall_fan,facing=east,,
+,,6,fire_coral_wall_fan,facing=east,,
+,,7,dead_fire_coral_wall_fan,facing=east,,
+,,8,bubble_coral_wall_fan,facing=north,,
+,,9,dead_bubble_coral_wall_fan,facing=north,,
+,,10,fire_coral_wall_fan,facing=north,,
+,,11,dead_fire_coral_wall_fan,facing=north,,
+,,12,bubble_coral_wall_fan,facing=south,,
+,,13,dead_bubble_coral_wall_fan,facing=south,,
+,,14,fire_coral_wall_fan,facing=south,,
+,,15,dead_fire_coral_wall_fan,facing=south,,
+268,,0,horn_coral_wall_fan,facing=west,,
+,,1,dead_horn_coral_wall_fan,facing=west,,
+,,4,horn_coral_wall_fan,facing=east,,
+,,5,dead_horn_coral_wall_fan,facing=east,,
+,,8,horn_coral_wall_fan,facing=north,,
+,,9,dead_horn_coral_wall_fan,facing=north,,
+,,12,horn_coral_wall_fan,facing=south,,
+,,13,dead_horn_coral_wall_fan,facing=south,,
+269,,,dried_kelp_block,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+270,,0,seagrass,,,
+,,1,tall_seagrass,half=upper,,
+,,2,tall_seagrass,half=lower,,
+271,,0,sea_pickle,pickles=1,,MB
+,,1,sea_pickle,pickles=2,,MB
+,,2,sea_pickle,pickles=3,,MB
+,,3,sea_pickle,pickles=4,,MB
+272,,0,bubble_column,drag=true,,
+,,1,bubble_column,drag=false,,
+273,,,blue_ice,,CONNECT | REDSTONE_BREAK,MB | LB | OF
+274,,0,spruce_trapdoor,facing=north | half=bottom | open=false,,MB
+,,1,spruce_trapdoor,facing=south | half=bottom | open=false,,MB
+,,2,spruce_trapdoor,facing=west | half=bottom | open=false,,MB
+,,3,spruce_trapdoor,facing=east | half=bottom | open=false,,MB
+,,4,spruce_trapdoor,facing=north | half=bottom | open=true,,MB
+,,5,spruce_trapdoor,facing=south | half=bottom | open=true,,MB
+,,6,spruce_trapdoor,facing=west | half=bottom | open=true,,MB
+,,7,spruce_trapdoor,facing=east | half=bottom | open=true,,MB
+,,8,spruce_trapdoor,facing=north | half=top | open=false,,MB
+,,9,spruce_trapdoor,facing=south | half=top | open=false,,MB
+,,10,spruce_trapdoor,facing=west | half=top | open=false,,MB
+,,11,spruce_trapdoor,facing=east | half=top | open=false,,MB
+,,12,spruce_trapdoor,facing=north | half=top | open=true,,MB
+,,13,spruce_trapdoor,facing=south | half=top | open=true,,MB
+,,14,spruce_trapdoor,facing=west | half=top | open=true,,MB
+,,15,spruce_trapdoor,facing=east | half=top | open=true,,MB
+275,,0,birch_trapdoor,facing=north | half=bottom | open=false,,MB
+,,1,birch_trapdoor,facing=south | half=bottom | open=false,,MB
+,,2,birch_trapdoor,facing=west | half=bottom | open=false,,MB
+,,3,birch_trapdoor,facing=east | half=bottom | open=false,,MB
+,,4,birch_trapdoor,facing=north | half=bottom | open=true,,MB
+,,5,birch_trapdoor,facing=south | half=bottom | open=true,,MB
+,,6,birch_trapdoor,facing=west | half=bottom | open=true,,MB
+,,7,birch_trapdoor,facing=east | half=bottom | open=true,,MB
+,,8,birch_trapdoor,facing=north | half=top | open=false,,MB
+,,9,birch_trapdoor,facing=south | half=top | open=false,,MB
+,,10,birch_trapdoor,facing=west | half=top | open=false,,MB
+,,11,birch_trapdoor,facing=east | half=top | open=false,,MB
+,,12,birch_trapdoor,facing=north | half=top | open=true,,MB
+,,13,birch_trapdoor,facing=south | half=top | open=true,,MB
+,,14,birch_trapdoor,facing=west | half=top | open=true,,MB
+,,15,birch_trapdoor,facing=east | half=top | open=true,,MB
+276,,0,jungle_trapdoor,facing=north | half=bottom | open=false,,MB
+,,1,jungle_trapdoor,facing=south | half=bottom | open=false,,MB
+,,2,jungle_trapdoor,facing=west | half=bottom | open=false,,MB
+,,3,jungle_trapdoor,facing=east | half=bottom | open=false,,MB
+,,4,jungle_trapdoor,facing=north | half=bottom | open=true,,MB
+,,5,jungle_trapdoor,facing=south | half=bottom | open=true,,MB
+,,6,jungle_trapdoor,facing=west | half=bottom | open=true,,MB
+,,7,jungle_trapdoor,facing=east | half=bottom | open=true,,MB
+,,8,jungle_trapdoor,facing=north | half=top | open=false,,MB
+,,9,jungle_trapdoor,facing=south | half=top | open=false,,MB
+,,10,jungle_trapdoor,facing=west | half=top | open=false,,MB
+,,11,jungle_trapdoor,facing=east | half=top | open=false,,MB
+,,12,jungle_trapdoor,facing=north | half=top | open=true,,MB
+,,13,jungle_trapdoor,facing=south | half=top | open=true,,MB
+,,14,jungle_trapdoor,facing=west | half=top | open=true,,MB
+,,15,jungle_trapdoor,facing=east | half=top | open=true,,MB
+277,,0,acacia_trapdoor,facing=north | half=bottom | open=false,,MB
+,,1,acacia_trapdoor,facing=south | half=bottom | open=false,,MB
+,,2,acacia_trapdoor,facing=west | half=bottom | open=false,,MB
+,,3,acacia_trapdoor,facing=east | half=bottom | open=false,,MB
+,,4,acacia_trapdoor,facing=north | half=bottom | open=true,,MB
+,,5,acacia_trapdoor,facing=south | half=bottom | open=true,,MB
+,,6,acacia_trapdoor,facing=west | half=bottom | open=true,,MB
+,,7,acacia_trapdoor,facing=east | half=bottom | open=true,,MB
+,,8,acacia_trapdoor,facing=north | half=top | open=false,,MB
+,,9,acacia_trapdoor,facing=south | half=top | open=false,,MB
+,,10,acacia_trapdoor,facing=west | half=top | open=false,,MB
+,,11,acacia_trapdoor,facing=east | half=top | open=false,,MB
+,,12,acacia_trapdoor,facing=north | half=top | open=true,,MB
+,,13,acacia_trapdoor,facing=south | half=top | open=true,,MB
+,,14,acacia_trapdoor,facing=west | half=top | open=true,,MB
+,,15,acacia_trapdoor,facing=east | half=top | open=true,,MB
+278,,0,dark_oak_trapdoor,facing=north | half=bottom | open=false,,MB
+,,1,dark_oak_trapdoor,facing=south | half=bottom | open=false,,MB
+,,2,dark_oak_trapdoor,facing=west | half=bottom | open=false,,MB
+,,3,dark_oak_trapdoor,facing=east | half=bottom | open=false,,MB
+,,4,dark_oak_trapdoor,facing=north | half=bottom | open=true,,MB
+,,5,dark_oak_trapdoor,facing=south | half=bottom | open=true,,MB
+,,6,dark_oak_trapdoor,facing=west | half=bottom | open=true,,MB
+,,7,dark_oak_trapdoor,facing=east | half=bottom | open=true,,MB
+,,8,dark_oak_trapdoor,facing=north | half=top | open=false,,MB
+,,9,dark_oak_trapdoor,facing=south | half=top | open=false,,MB
+,,10,dark_oak_trapdoor,facing=west | half=top | open=false,,MB
+,,11,dark_oak_trapdoor,facing=east | half=top | open=false,,MB
+,,12,dark_oak_trapdoor,facing=north | half=top | open=true,,MB
+,,13,dark_oak_trapdoor,facing=south | half=top | open=true,,MB
+,,14,dark_oak_trapdoor,facing=west | half=top | open=true,,MB
+,,15,dark_oak_trapdoor,facing=east | half=top | open=true,,MB
+279,,0,turtle_egg,eggs=1 | hatch=0,,MB
+,,1,turtle_egg,eggs=2 | hatch=0,,MB
+,,2,turtle_egg,eggs=3 | hatch=0,,MB
+,,3,turtle_egg,eggs=4 | hatch=0,,MB
+,,4,turtle_egg,eggs=1 | hatch=1,,MB
+,,5,turtle_egg,eggs=2 | hatch=1,,MB
+,,6,turtle_egg,eggs=3 | hatch=1,,MB
+,,7,turtle_egg,eggs=4 | hatch=1,,MB
+,,8,turtle_egg,eggs=1 | hatch=2,,MB
+,,9,turtle_egg,eggs=2 | hatch=2,,MB
+,,10,turtle_egg,eggs=3 | hatch=2,,MB
+,,11,turtle_egg,eggs=4 | hatch=2,,MB
+,,12,turtle_egg,eggs=1 | hatch=3,,MB
+,,13,turtle_egg,eggs=2 | hatch=3,,MB
+,,14,turtle_egg,eggs=3 | hatch=3,,MB
+,,15,turtle_egg,eggs=4 | hatch=3,,MB
+291,,0,prismarine_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,prismarine_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,prismarine_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,prismarine_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,prismarine_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,prismarine_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,prismarine_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,prismarine_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+292,,0,prismarine_brick_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,prismarine_brick_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,prismarine_brick_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,prismarine_brick_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,prismarine_brick_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,prismarine_brick_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,prismarine_brick_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,prismarine_brick_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+293,,0,dark_prismarine_stairs,facing=east | half=bottom,CONNECT_E | STAIRS_E,MB | LB | OF
+,,1,dark_prismarine_stairs,facing=west | half=bottom,CONNECT_W | STAIRS_W,MB | LB | OF
+,,2,dark_prismarine_stairs,facing=south | half=bottom,CONNECT_S | STAIRS_S,MB | LB | OF
+,,3,dark_prismarine_stairs,facing=north | half=bottom,CONNECT_N | STAIRS_N,MB | LB | OF
+,,4,dark_prismarine_stairs,facing=east | half=top,CONNECT_E | STAIRS_TOP_E,MB | LB | OF
+,,5,dark_prismarine_stairs,facing=west | half=top,CONNECT_W | STAIRS_TOP_W,MB | LB | OF
+,,6,dark_prismarine_stairs,facing=south | half=top,CONNECT_S | STAIRS_TOP_S,MB | LB | OF
+,,7,dark_prismarine_stairs,facing=north | half=top,CONNECT_N | STAIRS_TOP_N,MB | LB | OF
+295,,0,stripped_spruce_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_spruce_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_spruce_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+296,,0,stripped_birch_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_birch_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_birch_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+297,,0,stripped_jungle_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_jungle_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_jungle_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+298,,0,stripped_acacia_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_acacia_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_acacia_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+299,,0,stripped_dark_oak_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_dark_oak_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_dark_oak_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+300,,0,stripped_oak_log,axis=y,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,4,stripped_oak_log,axis=x,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,8,stripped_oak_log,axis=z,CONNECT | REDSTONE_BREAK,MB | LB | OF
+301,,0,acacia_pressure_plate,powered=false,,
+,,1,acacia_pressure_plate,powered=true,,
+302,,0,birch_pressure_plate,powered=false,,
+,,1,birch_pressure_plate,powered=true,,
+303,,0,dark_oak_pressure_plate,powered=false,,
+,,1,dark_oak_pressure_plate,powered=true,,
+304,,0,jungle_pressure_plate,powered=false,,
+,,1,jungle_pressure_plate,powered=true,,
+305,,0,spruce_pressure_plate,powered=false,,
+,,1,spruce_pressure_plate,powered=true,,
+306,,0,acacia_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,acacia_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,acacia_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,acacia_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,acacia_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,acacia_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,acacia_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,acacia_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,acacia_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,acacia_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,acacia_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,acacia_button,face=floor | powered=true,REDSTONE_CONNECT,
+307,,0,birch_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,birch_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,birch_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,birch_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,birch_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,birch_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,birch_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,birch_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,birch_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,birch_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,birch_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,birch_button,face=floor | powered=true,REDSTONE_CONNECT,
+308,,0,dark_oak_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,dark_oak_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,dark_oak_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,dark_oak_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,dark_oak_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,dark_oak_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,dark_oak_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,dark_oak_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,dark_oak_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,dark_oak_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,dark_oak_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,dark_oak_button,face=floor | powered=true,REDSTONE_CONNECT,
+309,,0,jungle_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,jungle_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,jungle_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,jungle_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,jungle_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,jungle_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,jungle_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,jungle_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,jungle_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,jungle_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,jungle_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,jungle_button,face=floor | powered=true,REDSTONE_CONNECT,
+310,,0,spruce_button,face=ceiling | powered=false,REDSTONE_CONNECT,
+,,1,spruce_button,face=wall | facing=east | powered=false,REDSTONE_CONNECT,
+,,2,spruce_button,face=wall | facing=west | powered=false,REDSTONE_CONNECT,
+,,3,spruce_button,face=wall | facing=south | powered=false,REDSTONE_CONNECT,
+,,4,spruce_button,face=wall | facing=north | powered=false,REDSTONE_CONNECT,
+,,5,spruce_button,face=floor | powered=false,REDSTONE_CONNECT,
+,,8,spruce_button,face=ceiling | powered=true,REDSTONE_CONNECT,
+,,9,spruce_button,face=wall | facing=east | powered=true,REDSTONE_CONNECT,
+,,10,spruce_button,face=wall | facing=west | powered=true,REDSTONE_CONNECT,
+,,11,spruce_button,face=wall | facing=south | powered=true,REDSTONE_CONNECT,
+,,12,spruce_button,face=wall | facing=north | powered=true,REDSTONE_CONNECT,
+,,13,spruce_button,face=floor | powered=true,REDSTONE_CONNECT,
+311,,0,prismarine_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,1,prismarine_brick_slab,type=double,CONNECT | REDSTONE_BREAK,MB | LB | OF
+,,2,dark_prismarine_slab,type=double,CONNECT,MB | LB | OF
+312,,0,prismarine_slab,type=bottom,,MB | LB | OF
+,,1,prismarine_brick_slab,type=bottom,,MB | LB | OF
+,,2,dark_prismarine_slab,type=bottom,,MB | LB | OF
+,,8,prismarine_slab,type=top,,MB | LB | OF
+,,9,prismarine_brick_slab,type=top,,MB | LB | OF
+,,10,dark_prismarine_slab,type=top,,MB | LB | OF

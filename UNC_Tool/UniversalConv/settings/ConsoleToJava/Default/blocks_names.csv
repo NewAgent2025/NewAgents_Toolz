@@ -1,0 +1,1973 @@
+Name,Version,Data,Name,Properties
+acacia_button,,0,acacia_button,face=ceiling | powered=false
+,,1,acacia_button,face=wall | facing=east | powered=false
+,,2,acacia_button,face=wall | facing=west | powered=false
+,,3,acacia_button,face=wall | facing=south | powered=false
+,,4,acacia_button,face=wall | facing=north | powered=false
+,,5,acacia_button,face=floor | powered=false
+,,8,acacia_button,face=ceiling | powered=true
+,,9,acacia_button,face=wall | facing=east | powered=true
+,,10,acacia_button,face=wall | facing=west | powered=true
+,,11,acacia_button,face=wall | facing=south | powered=true
+,,12,acacia_button,face=wall | facing=north | powered=true
+,,13,acacia_button,face=floor | powered=true
+acacia_door,,0,acacia_door,facing=east | half=lower | open=false
+,,1,acacia_door,facing=south | half=lower | open=false
+,,2,acacia_door,facing=west | half=lower | open=false
+,,3,acacia_door,facing=north | half=lower | open=false
+,,4,acacia_door,facing=east | half=lower | open=true
+,,5,acacia_door,facing=south | half=lower | open=true
+,,6,acacia_door,facing=west | half=lower | open=true
+,,7,acacia_door,facing=north | half=lower | open=true
+,,8,acacia_door,half=upper | hinge=left | powered=false
+,,9,acacia_door,half=upper | hinge=right | powered=false
+,,10,acacia_door,half=upper | hinge=left | powered=true
+,,11,acacia_door,half=upper | hinge=right | powered=true
+,,12,acacia_door,half=upper | hinge=left | powered=false
+,,13,acacia_door,half=upper | hinge=right | powered=false
+,,14,acacia_door,half=upper | hinge=left | powered=true
+,,15,acacia_door,half=upper | hinge=right | powered=true
+acacia_fence,,,acacia_fence,
+acacia_fence_gate,,0,acacia_fence_gate,facing=south | in_wall=false | open=false
+,,1,acacia_fence_gate,facing=west | in_wall=false | open=false
+,,2,acacia_fence_gate,facing=north | in_wall=false | open=false
+,,3,acacia_fence_gate,facing=east | in_wall=false | open=false
+,,4,acacia_fence_gate,facing=south | in_wall=false | open=true
+,,5,acacia_fence_gate,facing=west | in_wall=false | open=true
+,,6,acacia_fence_gate,facing=north | in_wall=false | open=true
+,,7,acacia_fence_gate,facing=east | in_wall=false | open=true
+,,8,acacia_fence_gate,facing=south | in_wall=true | open=false
+,,9,acacia_fence_gate,facing=west | in_wall=true | open=false
+,,10,acacia_fence_gate,facing=north | in_wall=true | open=false
+,,11,acacia_fence_gate,facing=east | in_wall=true | open=false
+,,12,acacia_fence_gate,facing=south | in_wall=true | open=true
+,,13,acacia_fence_gate,facing=west | in_wall=true | open=true
+,,14,acacia_fence_gate,facing=north | in_wall=true | open=true
+,,15,acacia_fence_gate,facing=east | in_wall=true | open=true
+acacia_pressure_plate,,0,acacia_pressure_plate,powered=false
+,,1,acacia_pressure_plate,powered=true
+acacia_stairs,,0,acacia_stairs,facing=east | half=bottom
+,,1,acacia_stairs,facing=west | half=bottom
+,,2,acacia_stairs,facing=south | half=bottom
+,,3,acacia_stairs,facing=north | half=bottom
+,,4,acacia_stairs,facing=east | half=top
+,,5,acacia_stairs,facing=west | half=top
+,,6,acacia_stairs,facing=south | half=top
+,,7,acacia_stairs,facing=north | half=top
+acacia_trapdoor,,0,acacia_trapdoor,facing=north | half=bottom | open=false
+,,1,acacia_trapdoor,facing=south | half=bottom | open=false
+,,2,acacia_trapdoor,facing=west | half=bottom | open=false
+,,3,acacia_trapdoor,facing=east | half=bottom | open=false
+,,4,acacia_trapdoor,facing=north | half=bottom | open=true
+,,5,acacia_trapdoor,facing=south | half=bottom | open=true
+,,6,acacia_trapdoor,facing=west | half=bottom | open=true
+,,7,acacia_trapdoor,facing=east | half=bottom | open=true
+,,8,acacia_trapdoor,facing=north | half=top | open=false
+,,9,acacia_trapdoor,facing=south | half=top | open=false
+,,10,acacia_trapdoor,facing=west | half=top | open=false
+,,11,acacia_trapdoor,facing=east | half=top | open=false
+,,12,acacia_trapdoor,facing=north | half=top | open=true
+,,13,acacia_trapdoor,facing=south | half=top | open=true
+,,14,acacia_trapdoor,facing=west | half=top | open=true
+,,15,acacia_trapdoor,facing=east | half=top | open=true
+activator_rail,,0,activator_rail,powered=false | shape=north_south
+,,1,activator_rail,powered=false | shape=east_west
+,,2,activator_rail,powered=false | shape=ascending_east
+,,3,activator_rail,powered=false | shape=ascending_west
+,,4,activator_rail,powered=false | shape=ascending_north
+,,5,activator_rail,powered=false | shape=ascending_south
+,,8,activator_rail,powered=true | shape=north_south
+,,9,activator_rail,powered=true | shape=east_west
+,,10,activator_rail,powered=true | shape=ascending_east
+,,11,activator_rail,powered=true | shape=ascending_west
+,,12,activator_rail,powered=true | shape=ascending_north
+,,13,activator_rail,powered=true | shape=ascending_south
+anvil,,0,anvil,facing=north
+,,1,anvil,facing=east
+,,2,anvil,facing=south
+,,3,anvil,facing=west
+,,4,chipped_anvil,facing=north
+,,5,chipped_anvil,facing=east
+,,6,chipped_anvil,facing=south
+,,7,chipped_anvil,facing=west
+,,8,damaged_anvil,facing=north
+,,9,damaged_anvil,facing=east
+,,10,damaged_anvil,facing=south
+,,11,damaged_anvil,facing=west
+barrier,,,barrier,
+beacon,,,beacon,
+bed,,0,red_bed,facing=south | occupied=false | part=foot
+,,1,red_bed,facing=west | occupied=false | part=foot
+,,2,red_bed,facing=north | occupied=false | part=foot
+,,3,red_bed,facing=east | occupied=false | part=foot
+,,4,red_bed,facing=south | occupied=true | part=foot
+,,5,red_bed,facing=west | occupied=true | part=foot
+,,6,red_bed,facing=north | occupied=true | part=foot
+,,7,red_bed,facing=east | occupied=true | part=foot
+,,8,red_bed,facing=south | occupied=false | part=head
+,,9,red_bed,facing=west | occupied=false | part=head
+,,10,red_bed,facing=north | occupied=false | part=head
+,,11,red_bed,facing=east | occupied=false | part=head
+,,12,red_bed,facing=south | occupied=true | part=head
+,,13,red_bed,facing=west | occupied=true | part=head
+,,14,red_bed,facing=north | occupied=true | part=head
+,,15,red_bed,facing=east | occupied=true | part=head
+bedrock,,,bedrock,
+beetroots,,0,beetroots,age=0
+,,1,beetroots,age=1
+,,2,beetroots,age=2
+,,3,beetroots,age=3
+birch_button,,0,birch_button,face=ceiling | powered=false
+,,1,birch_button,face=wall | facing=east | powered=false
+,,2,birch_button,face=wall | facing=west | powered=false
+,,3,birch_button,face=wall | facing=south | powered=false
+,,4,birch_button,face=wall | facing=north | powered=false
+,,5,birch_button,face=floor | powered=false
+,,8,birch_button,face=ceiling | powered=true
+,,9,birch_button,face=wall | facing=east | powered=true
+,,10,birch_button,face=wall | facing=west | powered=true
+,,11,birch_button,face=wall | facing=south | powered=true
+,,12,birch_button,face=wall | facing=north | powered=true
+,,13,birch_button,face=floor | powered=true
+birch_door,,0,birch_door,facing=east | half=lower | open=false
+,,1,birch_door,facing=south | half=lower | open=false
+,,2,birch_door,facing=west | half=lower | open=false
+,,3,birch_door,facing=north | half=lower | open=false
+,,4,birch_door,facing=east | half=lower | open=true
+,,5,birch_door,facing=south | half=lower | open=true
+,,6,birch_door,facing=west | half=lower | open=true
+,,7,birch_door,facing=north | half=lower | open=true
+,,8,birch_door,half=upper | hinge=left | powered=false
+,,9,birch_door,half=upper | hinge=right | powered=false
+,,10,birch_door,half=upper | hinge=left | powered=true
+,,11,birch_door,half=upper | hinge=right | powered=true
+,,12,birch_door,half=upper | hinge=left | powered=false
+,,13,birch_door,half=upper | hinge=right | powered=false
+,,14,birch_door,half=upper | hinge=left | powered=true
+,,15,birch_door,half=upper | hinge=right | powered=true
+birch_fence,,,birch_fence,
+birch_fence_gate,,0,birch_fence_gate,facing=south | in_wall=false | open=false
+,,1,birch_fence_gate,facing=west | in_wall=false | open=false
+,,2,birch_fence_gate,facing=north | in_wall=false | open=false
+,,3,birch_fence_gate,facing=east | in_wall=false | open=false
+,,4,birch_fence_gate,facing=south | in_wall=false | open=true
+,,5,birch_fence_gate,facing=west | in_wall=false | open=true
+,,6,birch_fence_gate,facing=north | in_wall=false | open=true
+,,7,birch_fence_gate,facing=east | in_wall=false | open=true
+,,8,birch_fence_gate,facing=south | in_wall=true | open=false
+,,9,birch_fence_gate,facing=west | in_wall=true | open=false
+,,10,birch_fence_gate,facing=north | in_wall=true | open=false
+,,11,birch_fence_gate,facing=east | in_wall=true | open=false
+,,12,birch_fence_gate,facing=south | in_wall=true | open=true
+,,13,birch_fence_gate,facing=west | in_wall=true | open=true
+,,14,birch_fence_gate,facing=north | in_wall=true | open=true
+,,15,birch_fence_gate,facing=east | in_wall=true | open=true
+birch_pressure_plate,,0,birch_pressure_plate,powered=false
+,,1,birch_pressure_plate,powered=true
+birch_stairs,,0,birch_stairs,facing=east | half=bottom
+,,1,birch_stairs,facing=west | half=bottom
+,,2,birch_stairs,facing=south | half=bottom
+,,3,birch_stairs,facing=north | half=bottom
+,,4,birch_stairs,facing=east | half=top
+,,5,birch_stairs,facing=west | half=top
+,,6,birch_stairs,facing=south | half=top
+,,7,birch_stairs,facing=north | half=top
+birch_trapdoor,,0,birch_trapdoor,facing=north | half=bottom | open=false
+,,1,birch_trapdoor,facing=south | half=bottom | open=false
+,,2,birch_trapdoor,facing=west | half=bottom | open=false
+,,3,birch_trapdoor,facing=east | half=bottom | open=false
+,,4,birch_trapdoor,facing=north | half=bottom | open=true
+,,5,birch_trapdoor,facing=south | half=bottom | open=true
+,,6,birch_trapdoor,facing=west | half=bottom | open=true
+,,7,birch_trapdoor,facing=east | half=bottom | open=true
+,,8,birch_trapdoor,facing=north | half=top | open=false
+,,9,birch_trapdoor,facing=south | half=top | open=false
+,,10,birch_trapdoor,facing=west | half=top | open=false
+,,11,birch_trapdoor,facing=east | half=top | open=false
+,,12,birch_trapdoor,facing=north | half=top | open=true
+,,13,birch_trapdoor,facing=south | half=top | open=true
+,,14,birch_trapdoor,facing=west | half=top | open=true
+,,15,birch_trapdoor,facing=east | half=top | open=true
+black_glazed_terracotta,,0,black_glazed_terracotta,facing=south
+,,1,black_glazed_terracotta,facing=west
+,,2,black_glazed_terracotta,facing=north
+,,3,black_glazed_terracotta,facing=east
+black_shulker_box,,0,black_shulker_box,facing=down
+,,1,black_shulker_box,facing=up
+,,2,black_shulker_box,facing=north
+,,3,black_shulker_box,facing=south
+,,4,black_shulker_box,facing=west
+,,5,black_shulker_box,facing=east
+blue_glazed_terracotta,,0,blue_glazed_terracotta,facing=south
+,,1,blue_glazed_terracotta,facing=west
+,,2,blue_glazed_terracotta,facing=north
+,,3,blue_glazed_terracotta,facing=east
+blue_ice,,,blue_ice,
+blue_shulker_box,,0,blue_shulker_box,facing=down
+,,1,blue_shulker_box,facing=up
+,,2,blue_shulker_box,facing=north
+,,3,blue_shulker_box,facing=south
+,,4,blue_shulker_box,facing=west
+,,5,blue_shulker_box,facing=east
+bone_block,,0,bone_block,axis=y
+,,4,bone_block,axis=x
+,,8,bone_block,axis=z
+bookshelf,,,bookshelf,
+brewing_stand,,0,brewing_stand,has_bottle_0=false | has_bottle_1=false | has_bottle_2=false
+,,1,brewing_stand,has_bottle_0=true | has_bottle_1=false | has_bottle_2=false
+,,2,brewing_stand,has_bottle_0=false | has_bottle_1=true | has_bottle_2=false
+,,3,brewing_stand,has_bottle_0=true | has_bottle_1=true | has_bottle_2=false
+,,4,brewing_stand,has_bottle_0=false | has_bottle_1=false | has_bottle_2=true
+,,5,brewing_stand,has_bottle_0=true | has_bottle_1=false | has_bottle_2=true
+,,6,brewing_stand,has_bottle_0=false | has_bottle_1=true | has_bottle_2=true
+,,7,brewing_stand,has_bottle_0=true | has_bottle_1=true | has_bottle_2=true
+brick_stairs,,0,brick_stairs,facing=east | half=bottom
+,,1,brick_stairs,facing=west | half=bottom
+,,2,brick_stairs,facing=south | half=bottom
+,,3,brick_stairs,facing=north | half=bottom
+,,4,brick_stairs,facing=east | half=top
+,,5,brick_stairs,facing=west | half=top
+,,6,brick_stairs,facing=south | half=top
+,,7,brick_stairs,facing=north | half=top
+bricks,,,bricks,
+brown_glazed_terracotta,,0,brown_glazed_terracotta,facing=south
+,,1,brown_glazed_terracotta,facing=west
+,,2,brown_glazed_terracotta,facing=north
+,,3,brown_glazed_terracotta,facing=east
+brown_mushroom,,,brown_mushroom,
+brown_mushroom_block,,0,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+,,1,brown_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=false
+,,2,brown_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=true
+,,3,brown_mushroom_block,down=true | east=false | north=false | south=true | up=false | west=true
+,,4,brown_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=false
+,,5,brown_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=true
+,,6,brown_mushroom_block,down=true | east=false | north=true | south=true | up=false | west=true
+,,7,brown_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=false
+,,8,brown_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=true
+,,9,brown_mushroom_block,down=true | east=false | north=true | south=false | up=false | west=true
+,,10,brown_mushroom_block,down=false | east=true | north=true | south=true | up=false | west=true
+,,14,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+,,15,brown_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+brown_shulker_box,,0,brown_shulker_box,facing=down
+,,1,brown_shulker_box,facing=up
+,,2,brown_shulker_box,facing=north
+,,3,brown_shulker_box,facing=south
+,,4,brown_shulker_box,facing=west
+,,5,brown_shulker_box,facing=east
+bubble_column,,0,bubble_column,drag=true
+,,1,bubble_column,drag=false
+cactus,,0,cactus,age=0
+,,1,cactus,age=1
+,,2,cactus,age=2
+,,3,cactus,age=3
+,,4,cactus,age=4
+,,5,cactus,age=5
+,,6,cactus,age=6
+,,7,cactus,age=7
+,,8,cactus,age=8
+,,9,cactus,age=9
+,,10,cactus,age=10
+,,11,cactus,age=11
+,,12,cactus,age=12
+,,13,cactus,age=13
+,,14,cactus,age=14
+,,15,cactus,age=15
+cake,,0,cake,bites=0
+,,1,cake,bites=1
+,,2,cake,bites=2
+,,3,cake,bites=3
+,,4,cake,bites=4
+,,5,cake,bites=5
+,,6,cake,bites=6
+carpet,,0,white_carpet,
+,,1,orange_carpet,
+,,2,magenta_carpet,
+,,3,light_blue_carpet,
+,,4,yellow_carpet,
+,,5,lime_carpet,
+,,6,pink_carpet,
+,,7,gray_carpet,
+,,8,light_gray_carpet,
+,,9,cyan_carpet,
+,,10,purple_carpet,
+,,11,blue_carpet,
+,,12,brown_carpet,
+,,13,green_carpet,
+,,14,red_carpet,
+,,15,black_carpet,
+carrots,,0,carrots,age=0
+,,1,carrots,age=1
+,,2,carrots,age=2
+,,3,carrots,age=3
+,,4,carrots,age=4
+,,5,carrots,age=5
+,,6,carrots,age=6
+,,7,carrots,age=7
+carved_pumpkin,,0,carved_pumpkin,facing=south
+,,1,carved_pumpkin,facing=west
+,,2,carved_pumpkin,facing=north
+,,3,carved_pumpkin,facing=east
+cauldron,,0,cauldron,level=0
+,,1,cauldron,level=1
+,,2,cauldron,level=2
+,,3,cauldron,level=3
+chest,,0,chest,facing=north
+,,2,chest,facing=north
+,,3,chest,facing=south
+,,4,chest,facing=west
+,,5,chest,facing=east
+chorus_flower,,0,chorus_flower,age=0
+,,1,chorus_flower,age=1
+,,2,chorus_flower,age=2
+,,3,chorus_flower,age=3
+,,4,chorus_flower,age=4
+,,5,chorus_flower,age=5
+chorus_plant,,,chorus_plant,
+clay,,,clay,
+coal_block,,,coal_block,
+coal_ore,,,coal_ore,
+cobblestone,,,cobblestone,
+cobblestone_stairs,,0,cobblestone_stairs,facing=east | half=bottom
+,,1,cobblestone_stairs,facing=west | half=bottom
+,,2,cobblestone_stairs,facing=south | half=bottom
+,,3,cobblestone_stairs,facing=north | half=bottom
+,,4,cobblestone_stairs,facing=east | half=top
+,,5,cobblestone_stairs,facing=west | half=top
+,,6,cobblestone_stairs,facing=south | half=top
+,,7,cobblestone_stairs,facing=north | half=top
+cobblestone_wall,,0,cobblestone_wall,
+,,1,mossy_cobblestone_wall,
+cobweb,,,cobweb,
+cocoa,,0,cocoa,age=0 | facing=south
+,,1,cocoa,age=0 | facing=west
+,,2,cocoa,age=0 | facing=north
+,,3,cocoa,age=0 | facing=east
+,,4,cocoa,age=1 | facing=south
+,,5,cocoa,age=1 | facing=west
+,,6,cocoa,age=1 | facing=north
+,,7,cocoa,age=1 | facing=east
+,,8,cocoa,age=2 | facing=south
+,,9,cocoa,age=2 | facing=west
+,,10,cocoa,age=2 | facing=north
+,,11,cocoa,age=2 | facing=east
+concrete,,0,white_concrete,
+,,1,orange_concrete,
+,,2,magenta_concrete,
+,,3,light_blue_concrete,
+,,4,yellow_concrete,
+,,5,lime_concrete,
+,,6,pink_concrete,
+,,7,gray_concrete,
+,,8,light_gray_concrete,
+,,9,cyan_concrete,
+,,10,purple_concrete,
+,,11,blue_concrete,
+,,12,brown_concrete,
+,,13,green_concrete,
+,,14,red_concrete,
+,,15,black_concrete,
+concrete_powder,,0,white_concrete_powder,
+,,1,orange_concrete_powder,
+,,2,magenta_concrete_powder,
+,,3,light_blue_concrete_powder,
+,,4,yellow_concrete_powder,
+,,5,lime_concrete_powder,
+,,6,pink_concrete_powder,
+,,7,gray_concrete_powder,
+,,8,light_gray_concrete_powder,
+,,9,cyan_concrete_powder,
+,,10,purple_concrete_powder,
+,,11,blue_concrete_powder,
+,,12,brown_concrete_powder,
+,,13,green_concrete_powder,
+,,14,red_concrete_powder,
+,,15,black_concrete_powder,
+conduit,,,conduit,
+coral,,0,tube_coral,
+,,1,brain_coral,
+,,2,bubble_coral,
+,,3,fire_coral,
+,,4,horn_coral,
+,,8,dead_tube_coral,
+,,9,dead_brain_coral,
+,,10,dead_bubble_coral,
+,,11,dead_fire_coral,
+,,12,dead_horn_coral,
+coral_block,,0,tube_coral_block,
+,,1,brain_coral_block,
+,,2,bubble_coral_block,
+,,3,fire_coral_block,
+,,4,horn_coral_block,
+,,8,dead_tube_coral_block,
+,,9,dead_brain_coral_block,
+,,10,dead_bubble_coral_block,
+,,11,dead_fire_coral_block,
+,,12,dead_horn_coral_block,
+coral_fan,,8,tube_coral_fan,
+,,9,brain_coral_fan,
+,,10,bubble_coral_fan,
+,,11,fire_coral_fan,
+,,12,horn_coral_fan,
+coral_fan_dead,,8,dead_tube_coral_fan,
+,,9,dead_brain_coral_fan,
+,,10,dead_bubble_coral_fan,
+,,11,dead_fire_coral_fan,
+,,12,dead_horn_coral_fan,
+coral_fan_hang,,0,tube_coral_wall_fan,facing=west
+,,1,dead_tube_coral_wall_fan,facing=west
+,,2,brain_coral_wall_fan,facing=west
+,,3,dead_brain_coral_wall_fan,facing=west
+,,4,tube_coral_wall_fan,facing=east
+,,5,dead_tube_coral_wall_fan,facing=east
+,,6,brain_coral_wall_fan,facing=east
+,,7,dead_brain_coral_wall_fan,facing=east
+,,8,tube_coral_wall_fan,facing=north
+,,9,dead_tube_coral_wall_fan,facing=north
+,,10,brain_coral_wall_fan,facing=north
+,,11,dead_brain_coral_wall_fan,facing=north
+,,12,tube_coral_wall_fan,facing=south
+,,13,dead_tube_coral_wall_fan,facing=south
+,,14,brain_coral_wall_fan,facing=south
+,,15,dead_brain_coral_wall_fan,facing=south
+coral_fan_hang2,,0,bubble_coral_wall_fan,facing=west
+,,1,dead_bubble_coral_wall_fan,facing=west
+,,2,fire_coral_wall_fan,facing=west
+,,3,dead_fire_coral_wall_fan,facing=west
+,,4,bubble_coral_wall_fan,facing=east
+,,5,dead_bubble_coral_wall_fan,facing=east
+,,6,fire_coral_wall_fan,facing=east
+,,7,dead_fire_coral_wall_fan,facing=east
+,,8,bubble_coral_wall_fan,facing=north
+,,9,dead_bubble_coral_wall_fan,facing=north
+,,10,fire_coral_wall_fan,facing=north
+,,11,dead_fire_coral_wall_fan,facing=north
+,,12,bubble_coral_wall_fan,facing=south
+,,13,dead_bubble_coral_wall_fan,facing=south
+,,14,fire_coral_wall_fan,facing=south
+,,15,dead_fire_coral_wall_fan,facing=south
+coral_fan_hang3,,0,horn_coral_wall_fan,facing=west
+,,1,dead_horn_coral_wall_fan,facing=west
+,,4,horn_coral_wall_fan,facing=east
+,,5,dead_horn_coral_wall_fan,facing=east
+,,8,horn_coral_wall_fan,facing=north
+,,9,dead_horn_coral_wall_fan,facing=north
+,,12,horn_coral_wall_fan,facing=south
+,,13,dead_horn_coral_wall_fan,facing=south
+crafting_table,,,crafting_table,
+cyan_glazed_terracotta,,0,cyan_glazed_terracotta,facing=south
+,,1,cyan_glazed_terracotta,facing=west
+,,2,cyan_glazed_terracotta,facing=north
+,,3,cyan_glazed_terracotta,facing=east
+cyan_shulker_box,,0,cyan_shulker_box,facing=down
+,,1,cyan_shulker_box,facing=up
+,,2,cyan_shulker_box,facing=north
+,,3,cyan_shulker_box,facing=south
+,,4,cyan_shulker_box,facing=west
+,,5,cyan_shulker_box,facing=east
+dark_oak_button,,0,dark_oak_button,face=ceiling | powered=false
+,,1,dark_oak_button,face=wall | facing=east | powered=false
+,,2,dark_oak_button,face=wall | facing=west | powered=false
+,,3,dark_oak_button,face=wall | facing=south | powered=false
+,,4,dark_oak_button,face=wall | facing=north | powered=false
+,,5,dark_oak_button,face=floor | powered=false
+,,8,dark_oak_button,face=ceiling | powered=true
+,,9,dark_oak_button,face=wall | facing=east | powered=true
+,,10,dark_oak_button,face=wall | facing=west | powered=true
+,,11,dark_oak_button,face=wall | facing=south | powered=true
+,,12,dark_oak_button,face=wall | facing=north | powered=true
+,,13,dark_oak_button,face=floor | powered=true
+dark_oak_door,,0,dark_oak_door,facing=east | half=lower | open=false
+,,1,dark_oak_door,facing=south | half=lower | open=false
+,,2,dark_oak_door,facing=west | half=lower | open=false
+,,3,dark_oak_door,facing=north | half=lower | open=false
+,,4,dark_oak_door,facing=east | half=lower | open=true
+,,5,dark_oak_door,facing=south | half=lower | open=true
+,,6,dark_oak_door,facing=west | half=lower | open=true
+,,7,dark_oak_door,facing=north | half=lower | open=true
+,,8,dark_oak_door,half=upper | hinge=left | powered=false
+,,9,dark_oak_door,half=upper | hinge=right | powered=false
+,,10,dark_oak_door,half=upper | hinge=left | powered=true
+,,11,dark_oak_door,half=upper | hinge=right | powered=true
+,,12,dark_oak_door,half=upper | hinge=left | powered=false
+,,13,dark_oak_door,half=upper | hinge=right | powered=false
+,,14,dark_oak_door,half=upper | hinge=left | powered=true
+,,15,dark_oak_door,half=upper | hinge=right | powered=true
+dark_oak_fence,,,dark_oak_fence,
+dark_oak_fence_gate,,0,dark_oak_fence_gate,facing=south | in_wall=false | open=false
+,,1,dark_oak_fence_gate,facing=west | in_wall=false | open=false
+,,2,dark_oak_fence_gate,facing=north | in_wall=false | open=false
+,,3,dark_oak_fence_gate,facing=east | in_wall=false | open=false
+,,4,dark_oak_fence_gate,facing=south | in_wall=false | open=true
+,,5,dark_oak_fence_gate,facing=west | in_wall=false | open=true
+,,6,dark_oak_fence_gate,facing=north | in_wall=false | open=true
+,,7,dark_oak_fence_gate,facing=east | in_wall=false | open=true
+,,8,dark_oak_fence_gate,facing=south | in_wall=true | open=false
+,,9,dark_oak_fence_gate,facing=west | in_wall=true | open=false
+,,10,dark_oak_fence_gate,facing=north | in_wall=true | open=false
+,,11,dark_oak_fence_gate,facing=east | in_wall=true | open=false
+,,12,dark_oak_fence_gate,facing=south | in_wall=true | open=true
+,,13,dark_oak_fence_gate,facing=west | in_wall=true | open=true
+,,14,dark_oak_fence_gate,facing=north | in_wall=true | open=true
+,,15,dark_oak_fence_gate,facing=east | in_wall=true | open=true
+dark_oak_pressure_plate,,0,dark_oak_pressure_plate,powered=false
+,,1,dark_oak_pressure_plate,powered=true
+dark_oak_stairs,,0,dark_oak_stairs,facing=east | half=bottom
+,,1,dark_oak_stairs,facing=west | half=bottom
+,,2,dark_oak_stairs,facing=south | half=bottom
+,,3,dark_oak_stairs,facing=north | half=bottom
+,,4,dark_oak_stairs,facing=east | half=top
+,,5,dark_oak_stairs,facing=west | half=top
+,,6,dark_oak_stairs,facing=south | half=top
+,,7,dark_oak_stairs,facing=north | half=top
+dark_oak_trapdoor,,0,dark_oak_trapdoor,facing=north | half=bottom | open=false
+,,1,dark_oak_trapdoor,facing=south | half=bottom | open=false
+,,2,dark_oak_trapdoor,facing=west | half=bottom | open=false
+,,3,dark_oak_trapdoor,facing=east | half=bottom | open=false
+,,4,dark_oak_trapdoor,facing=north | half=bottom | open=true
+,,5,dark_oak_trapdoor,facing=south | half=bottom | open=true
+,,6,dark_oak_trapdoor,facing=west | half=bottom | open=true
+,,7,dark_oak_trapdoor,facing=east | half=bottom | open=true
+,,8,dark_oak_trapdoor,facing=north | half=top | open=false
+,,9,dark_oak_trapdoor,facing=south | half=top | open=false
+,,10,dark_oak_trapdoor,facing=west | half=top | open=false
+,,11,dark_oak_trapdoor,facing=east | half=top | open=false
+,,12,dark_oak_trapdoor,facing=north | half=top | open=true
+,,13,dark_oak_trapdoor,facing=south | half=top | open=true
+,,14,dark_oak_trapdoor,facing=west | half=top | open=true
+,,15,dark_oak_trapdoor,facing=east | half=top | open=true
+dark_prismarine_stairs,,0,dark_prismarine_stairs,facing=east | half=bottom
+,,1,dark_prismarine_stairs,facing=west | half=bottom
+,,2,dark_prismarine_stairs,facing=south | half=bottom
+,,3,dark_prismarine_stairs,facing=north | half=bottom
+,,4,dark_prismarine_stairs,facing=east | half=top
+,,5,dark_prismarine_stairs,facing=west | half=top
+,,6,dark_prismarine_stairs,facing=south | half=top
+,,7,dark_prismarine_stairs,facing=north | half=top
+daylight_detector,,0,daylight_detector,inverted=false | power=0
+,,1,daylight_detector,inverted=false | power=1
+,,2,daylight_detector,inverted=false | power=2
+,,3,daylight_detector,inverted=false | power=3
+,,4,daylight_detector,inverted=false | power=4
+,,5,daylight_detector,inverted=false | power=5
+,,6,daylight_detector,inverted=false | power=6
+,,7,daylight_detector,inverted=false | power=7
+,,8,daylight_detector,inverted=false | power=8
+,,9,daylight_detector,inverted=false | power=9
+,,10,daylight_detector,inverted=false | power=10
+,,11,daylight_detector,inverted=false | power=11
+,,12,daylight_detector,inverted=false | power=12
+,,13,daylight_detector,inverted=false | power=13
+,,14,daylight_detector,inverted=false | power=14
+,,15,daylight_detector,inverted=false | power=15
+daylight_detector_inverted,,0,daylight_detector,inverted=true | power=0
+,,1,daylight_detector,inverted=true | power=1
+,,2,daylight_detector,inverted=true | power=2
+,,3,daylight_detector,inverted=true | power=3
+,,4,daylight_detector,inverted=true | power=4
+,,5,daylight_detector,inverted=true | power=5
+,,6,daylight_detector,inverted=true | power=6
+,,7,daylight_detector,inverted=true | power=7
+,,8,daylight_detector,inverted=true | power=8
+,,9,daylight_detector,inverted=true | power=9
+,,10,daylight_detector,inverted=true | power=10
+,,11,daylight_detector,inverted=true | power=11
+,,12,daylight_detector,inverted=true | power=12
+,,13,daylight_detector,inverted=true | power=13
+,,14,daylight_detector,inverted=true | power=14
+,,15,daylight_detector,inverted=true | power=15
+deadbush,,,dead_bush,
+detector_rail,,0,detector_rail,powered=false | shape=north_south
+,,1,detector_rail,powered=false | shape=east_west
+,,2,detector_rail,powered=false | shape=ascending_east
+,,3,detector_rail,powered=false | shape=ascending_west
+,,4,detector_rail,powered=false | shape=ascending_north
+,,5,detector_rail,powered=false | shape=ascending_south
+,,8,detector_rail,powered=true | shape=north_south
+,,9,detector_rail,powered=true | shape=east_west
+,,10,detector_rail,powered=true | shape=ascending_east
+,,11,detector_rail,powered=true | shape=ascending_west
+,,12,detector_rail,powered=true | shape=ascending_north
+,,13,detector_rail,powered=true | shape=ascending_south
+diamond_block,,,diamond_block,
+diamond_ore,,,diamond_ore,
+dirt,,0,dirt,
+,,1,coarse_dirt,
+,,2,podzol,
+dispenser,,0,dispenser,facing=down | triggered=false
+,,1,dispenser,facing=up | triggered=false
+,,2,dispenser,facing=north | triggered=false
+,,3,dispenser,facing=south | triggered=false
+,,4,dispenser,facing=west | triggered=false
+,,5,dispenser,facing=east | triggered=false
+,,8,dispenser,facing=down | triggered=true
+,,9,dispenser,facing=up | triggered=true
+,,10,dispenser,facing=north | triggered=true
+,,11,dispenser,facing=south | triggered=true
+,,12,dispenser,facing=west | triggered=true
+,,13,dispenser,facing=east | triggered=true
+double_plant,,0,sunflower,half=lower
+,,1,lilac,half=lower
+,,2,rose_bush,half=lower
+,,3,large_fern,half=lower
+,,4,tall_grass,half=lower
+,,5,peony,half=lower
+,,10,sunflower,half=upper
+double_prismarine_slab,,0,prismarine_slab,type=double
+,,1,prismarine_brick_slab,type=double
+,,2,dark_prismarine_slab,type=double
+double_purpur_slab,,,purpur_slab,type=double
+double_stone_slab,,0,stone_slab,type=double
+,,1,sandstone_slab,type=double
+,,2,petrified_oak_slab,type=double
+,,3,cobblestone_slab,type=double
+,,4,brick_slab,type=double
+,,5,stone_brick_slab,type=double
+,,6,nether_brick_slab,type=double
+,,7,quartz_slab,type=double
+,,8,smooth_stone,
+,,9,smooth_sandstone,
+,,10,smooth_quartz,
+double_stone_slab2,,,red_sandstone_slab,type=double
+double_wooden_slab,,0,oak_slab,type=double
+,,1,spruce_slab,type=double
+,,2,birch_slab,type=double
+,,3,jungle_slab,type=double
+,,4,acacia_slab,type=double
+,,5,dark_oak_slab,type=double
+dragon_egg,,,dragon_egg,
+dried_kelp_block,,,dried_kelp_block,
+dropper,,0,dropper,facing=down | triggered=false
+,,1,dropper,facing=up | triggered=false
+,,2,dropper,facing=north | triggered=false
+,,3,dropper,facing=south | triggered=false
+,,4,dropper,facing=west | triggered=false
+,,5,dropper,facing=east | triggered=false
+,,8,dropper,facing=down | triggered=true
+,,9,dropper,facing=up | triggered=true
+,,10,dropper,facing=north | triggered=true
+,,11,dropper,facing=south | triggered=true
+,,12,dropper,facing=west | triggered=true
+,,13,dropper,facing=east | triggered=true
+emerald_block,,,emerald_block,
+emerald_ore,,,emerald_ore,
+enchanting_table,,,enchanting_table,
+end_bricks,,,end_stone_bricks,
+end_gateway,,,end_gateway,
+end_portal,,,end_portal,
+end_portal_frame,,0,end_portal_frame,eye=false | facing=south
+,,1,end_portal_frame,eye=false | facing=west
+,,2,end_portal_frame,eye=false | facing=north
+,,3,end_portal_frame,eye=false | facing=east
+,,4,end_portal_frame,eye=true | facing=south
+,,5,end_portal_frame,eye=true | facing=west
+,,6,end_portal_frame,eye=true | facing=north
+,,7,end_portal_frame,eye=true | facing=east
+end_rod,,0,end_rod,facing=down
+,,1,end_rod,facing=up
+,,2,end_rod,facing=north
+,,3,end_rod,facing=south
+,,4,end_rod,facing=west
+,,5,end_rod,facing=east
+end_stone,,,end_stone,
+ender_chest,,2,ender_chest,facing=north
+,,3,ender_chest,facing=south
+,,4,ender_chest,facing=west
+,,5,ender_chest,facing=east
+farmland,,0,farmland,moisture=0
+,,1,farmland,moisture=1
+,,2,farmland,moisture=2
+,,3,farmland,moisture=3
+,,4,farmland,moisture=4
+,,5,farmland,moisture=5
+,,6,farmland,moisture=6
+,,7,farmland,moisture=7
+fence,,,oak_fence,
+fence_gate,,0,oak_fence_gate,facing=south | in_wall=false | open=false
+,,1,oak_fence_gate,facing=west | in_wall=false | open=false
+,,2,oak_fence_gate,facing=north | in_wall=false | open=false
+,,3,oak_fence_gate,facing=east | in_wall=false | open=false
+,,4,oak_fence_gate,facing=south | in_wall=false | open=true
+,,5,oak_fence_gate,facing=west | in_wall=false | open=true
+,,6,oak_fence_gate,facing=north | in_wall=false | open=true
+,,7,oak_fence_gate,facing=east | in_wall=false | open=true
+,,8,oak_fence_gate,facing=south | in_wall=true | open=false
+,,9,oak_fence_gate,facing=west | in_wall=true | open=false
+,,10,oak_fence_gate,facing=north | in_wall=true | open=false
+,,11,oak_fence_gate,facing=east | in_wall=true | open=false
+,,12,oak_fence_gate,facing=south | in_wall=true | open=true
+,,13,oak_fence_gate,facing=west | in_wall=true | open=true
+,,14,oak_fence_gate,facing=north | in_wall=true | open=true
+,,15,oak_fence_gate,facing=east | in_wall=true | open=true
+fire,,0,fire,age=0
+,,1,fire,age=1
+,,2,fire,age=2
+,,3,fire,age=3
+,,4,fire,age=4
+,,5,fire,age=5
+,,6,fire,age=6
+,,7,fire,age=7
+,,8,fire,age=8
+,,9,fire,age=9
+,,10,fire,age=10
+,,11,fire,age=11
+,,12,fire,age=12
+,,13,fire,age=13
+,,14,fire,age=14
+,,15,fire,age=15
+flower_pot,,0,flower_pot,
+,,1,potted_poppy,
+,,2,potted_dandelion,
+,,3,potted_oak_sapling,
+,,4,potted_spruce_sapling,
+,,5,potted_birch_sapling,
+,,6,potted_jungle_sapling,
+,,7,potted_red_mushroom,
+,,8,potted_brown_mushroom,
+,,9,potted_cactus,
+,,10,potted_dead_bush,
+,,11,potted_fern,
+flowing_lava,,0,lava,level=0
+,,1,flowing_lava,level=1
+,,2,flowing_lava,level=2
+,,3,flowing_lava,level=3
+,,4,flowing_lava,level=4
+,,5,flowing_lava,level=5
+,,6,flowing_lava,level=6
+,,7,flowing_lava,level=7
+,,8,flowing_lava,level=8
+,,9,flowing_lava,level=9
+,,10,flowing_lava,level=10
+,,11,flowing_lava,level=11
+,,12,flowing_lava,level=12
+,,13,flowing_lava,level=13
+,,14,flowing_lava,level=14
+,,15,flowing_lava,level=15
+flowing_water,,0,flowing_water,level=0
+,,1,flowing_water,level=1
+,,2,flowing_water,level=2
+,,3,flowing_water,level=3
+,,4,flowing_water,level=4
+,,5,flowing_water,level=5
+,,6,flowing_water,level=6
+,,7,flowing_water,level=7
+,,8,flowing_water,level=8
+,,9,flowing_water,level=9
+,,10,flowing_water,level=10
+,,11,flowing_water,level=11
+,,12,flowing_water,level=12
+,,13,flowing_water,level=13
+,,14,flowing_water,level=14
+,,15,flowing_water,level=15
+frosted_ice,,,frosted_ice,
+furnace,,2,furnace,facing=north | lit=false
+,,3,furnace,facing=south | lit=false
+,,4,furnace,facing=west | lit=false
+,,5,furnace,facing=east | lit=false
+glass,,,glass,
+glass_pane,,,glass_pane,
+glowstone,,,glowstone,
+gold_block,,,gold_block,
+gold_ore,,,gold_ore,
+golden_rail,,0,powered_rail,powered=false | shape=north_south
+,,1,powered_rail,powered=false | shape=east_west
+,,2,powered_rail,powered=false | shape=ascending_east
+,,3,powered_rail,powered=false | shape=ascending_west
+,,4,powered_rail,powered=false | shape=ascending_north
+,,5,powered_rail,powered=false | shape=ascending_south
+,,8,powered_rail,powered=true | shape=north_south
+,,9,powered_rail,powered=true | shape=east_west
+,,10,powered_rail,powered=true | shape=ascending_east
+,,11,powered_rail,powered=true | shape=ascending_west
+,,12,powered_rail,powered=true | shape=ascending_north
+,,13,powered_rail,powered=true | shape=ascending_south
+grass,,,grass_block,
+grass_path,,,grass_path,
+gravel,,,gravel,
+gray_glazed_terracotta,,0,gray_glazed_terracotta,facing=south
+,,1,gray_glazed_terracotta,facing=west
+,,2,gray_glazed_terracotta,facing=north
+,,3,gray_glazed_terracotta,facing=east
+gray_shulker_box,,0,gray_shulker_box,facing=down
+,,1,gray_shulker_box,facing=up
+,,2,gray_shulker_box,facing=north
+,,3,gray_shulker_box,facing=south
+,,4,gray_shulker_box,facing=west
+,,5,gray_shulker_box,facing=east
+green_glazed_terracotta,,0,green_glazed_terracotta,facing=south
+,,1,green_glazed_terracotta,facing=west
+,,2,green_glazed_terracotta,facing=north
+,,3,green_glazed_terracotta,facing=east
+green_shulker_box,,0,green_shulker_box,facing=down
+,,1,green_shulker_box,facing=up
+,,2,green_shulker_box,facing=north
+,,3,green_shulker_box,facing=south
+,,4,green_shulker_box,facing=west
+,,5,green_shulker_box,facing=east
+hardened_clay,,,terracotta,
+hay_block,,0,hay_block,axis=y
+,,4,hay_block,axis=y
+,,8,hay_block,axis=z
+heavy_weighted_pressure_plate,,0,heavy_weighted_pressure_plate,power=0
+,,1,heavy_weighted_pressure_plate,power=1
+,,2,heavy_weighted_pressure_plate,power=2
+,,3,heavy_weighted_pressure_plate,power=3
+,,4,heavy_weighted_pressure_plate,power=4
+,,5,heavy_weighted_pressure_plate,power=5
+,,6,heavy_weighted_pressure_plate,power=6
+,,7,heavy_weighted_pressure_plate,power=7
+,,8,heavy_weighted_pressure_plate,power=8
+,,9,heavy_weighted_pressure_plate,power=9
+,,10,heavy_weighted_pressure_plate,power=10
+,,11,heavy_weighted_pressure_plate,power=11
+,,12,heavy_weighted_pressure_plate,power=12
+,,13,heavy_weighted_pressure_plate,power=13
+,,14,heavy_weighted_pressure_plate,power=14
+,,15,heavy_weighted_pressure_plate,power=15
+hopper,,0,hopper,enabled=true | facing=down
+,,2,hopper,enabled=true | facing=north
+,,3,hopper,enabled=true | facing=south
+,,4,hopper,enabled=true | facing=west
+,,5,hopper,enabled=true | facing=east
+,,8,hopper,enabled=false | facing=down
+,,9,hopper,enabled=false | facing=north
+,,10,hopper,enabled=false | facing=south
+,,11,hopper,enabled=false | facing=west
+,,12,hopper,enabled=false | facing=east
+ice,,,ice,
+iron_bars,,,iron_bars,
+iron_block,,,iron_block,
+iron_door,,0,iron_door,facing=east | half=lower | open=false
+,,1,iron_door,facing=south | half=lower | open=false
+,,2,iron_door,facing=west | half=lower | open=false
+,,3,iron_door,facing=north | half=lower | open=false
+,,4,iron_door,facing=east | half=lower | open=true
+,,5,iron_door,facing=south | half=lower | open=true
+,,6,iron_door,facing=west | half=lower | open=true
+,,7,iron_door,facing=north | half=lower | open=true
+,,8,iron_door,half=upper | hinge=left | powered=false
+,,9,iron_door,half=upper | hinge=right | powered=false
+,,10,iron_door,half=upper | hinge=left | powered=true
+,,11,iron_door,half=upper | hinge=right | powered=true
+,,12,iron_door,half=upper | hinge=left | powered=false
+,,13,iron_door,half=upper | hinge=right | powered=false
+,,14,iron_door,half=upper | hinge=left | powered=true
+,,15,iron_door,half=upper | hinge=right | powered=true
+iron_ore,,,iron_ore,
+iron_trapdoor,,0,iron_trapdoor,facing=north | half=bottom | open=false
+,,1,iron_trapdoor,facing=south | half=bottom | open=false
+,,2,iron_trapdoor,facing=west | half=bottom | open=false
+,,3,iron_trapdoor,facing=east | half=bottom | open=false
+,,4,iron_trapdoor,facing=north | half=bottom | open=true
+,,5,iron_trapdoor,facing=south | half=bottom | open=true
+,,6,iron_trapdoor,facing=west | half=bottom | open=true
+,,7,iron_trapdoor,facing=east | half=bottom | open=true
+,,8,iron_trapdoor,facing=north | half=top | open=false
+,,9,iron_trapdoor,facing=south | half=top | open=false
+,,10,iron_trapdoor,facing=west | half=top | open=false
+,,11,iron_trapdoor,facing=east | half=top | open=false
+,,12,iron_trapdoor,facing=north | half=top | open=true
+,,13,iron_trapdoor,facing=south | half=top | open=true
+,,14,iron_trapdoor,facing=west | half=top | open=true
+,,15,iron_trapdoor,facing=east | half=top | open=true
+jukebox,,0,jukebox,has_record=false
+,,1,jukebox,has_record=true
+jungle_button,,0,jungle_button,face=ceiling | powered=false
+,,1,jungle_button,face=wall | facing=east | powered=false
+,,2,jungle_button,face=wall | facing=west | powered=false
+,,3,jungle_button,face=wall | facing=south | powered=false
+,,4,jungle_button,face=wall | facing=north | powered=false
+,,5,jungle_button,face=floor | powered=false
+,,8,jungle_button,face=ceiling | powered=true
+,,9,jungle_button,face=wall | facing=east | powered=true
+,,10,jungle_button,face=wall | facing=west | powered=true
+,,11,jungle_button,face=wall | facing=south | powered=true
+,,12,jungle_button,face=wall | facing=north | powered=true
+,,13,jungle_button,face=floor | powered=true
+jungle_door,,0,jungle_door,facing=east | half=lower | open=false
+,,1,jungle_door,facing=south | half=lower | open=false
+,,2,jungle_door,facing=west | half=lower | open=false
+,,3,jungle_door,facing=north | half=lower | open=false
+,,4,jungle_door,facing=east | half=lower | open=true
+,,5,jungle_door,facing=south | half=lower | open=true
+,,6,jungle_door,facing=west | half=lower | open=true
+,,7,jungle_door,facing=north | half=lower | open=true
+,,8,jungle_door,half=upper | hinge=left | powered=false
+,,9,jungle_door,half=upper | hinge=right | powered=false
+,,10,jungle_door,half=upper | hinge=left | powered=true
+,,11,jungle_door,half=upper | hinge=right | powered=true
+,,12,jungle_door,half=upper | hinge=left | powered=false
+,,13,jungle_door,half=upper | hinge=right | powered=false
+,,14,jungle_door,half=upper | hinge=left | powered=true
+,,15,jungle_door,half=upper | hinge=right | powered=true
+jungle_fence,,,jungle_fence,
+jungle_fence_gate,,0,jungle_fence_gate,facing=south | in_wall=false | open=false
+,,1,jungle_fence_gate,facing=west | in_wall=false | open=false
+,,2,jungle_fence_gate,facing=north | in_wall=false | open=false
+,,3,jungle_fence_gate,facing=east | in_wall=false | open=false
+,,4,jungle_fence_gate,facing=south | in_wall=false | open=true
+,,5,jungle_fence_gate,facing=west | in_wall=false | open=true
+,,6,jungle_fence_gate,facing=north | in_wall=false | open=true
+,,7,jungle_fence_gate,facing=east | in_wall=false | open=true
+,,8,jungle_fence_gate,facing=south | in_wall=true | open=false
+,,9,jungle_fence_gate,facing=west | in_wall=true | open=false
+,,10,jungle_fence_gate,facing=north | in_wall=true | open=false
+,,11,jungle_fence_gate,facing=east | in_wall=true | open=false
+,,12,jungle_fence_gate,facing=south | in_wall=true | open=true
+,,13,jungle_fence_gate,facing=west | in_wall=true | open=true
+,,14,jungle_fence_gate,facing=north | in_wall=true | open=true
+,,15,jungle_fence_gate,facing=east | in_wall=true | open=true
+jungle_pressure_plate,,0,jungle_pressure_plate,powered=false
+,,1,jungle_pressure_plate,powered=true
+jungle_stairs,,0,jungle_stairs,facing=east | half=bottom
+,,1,jungle_stairs,facing=west | half=bottom
+,,2,jungle_stairs,facing=south | half=bottom
+,,3,jungle_stairs,facing=north | half=bottom
+,,4,jungle_stairs,facing=east | half=top
+,,5,jungle_stairs,facing=west | half=top
+,,6,jungle_stairs,facing=south | half=top
+,,7,jungle_stairs,facing=north | half=top
+jungle_trapdoor,,0,jungle_trapdoor,facing=north | half=bottom | open=false
+,,1,jungle_trapdoor,facing=south | half=bottom | open=false
+,,2,jungle_trapdoor,facing=west | half=bottom | open=false
+,,3,jungle_trapdoor,facing=east | half=bottom | open=false
+,,4,jungle_trapdoor,facing=north | half=bottom | open=true
+,,5,jungle_trapdoor,facing=south | half=bottom | open=true
+,,6,jungle_trapdoor,facing=west | half=bottom | open=true
+,,7,jungle_trapdoor,facing=east | half=bottom | open=true
+,,8,jungle_trapdoor,facing=north | half=top | open=false
+,,9,jungle_trapdoor,facing=south | half=top | open=false
+,,10,jungle_trapdoor,facing=west | half=top | open=false
+,,11,jungle_trapdoor,facing=east | half=top | open=false
+,,12,jungle_trapdoor,facing=north | half=top | open=true
+,,13,jungle_trapdoor,facing=south | half=top | open=true
+,,14,jungle_trapdoor,facing=west | half=top | open=true
+,,15,jungle_trapdoor,facing=east | half=top | open=true
+kelp,,0,kelp_plant,age=0
+,,1,kelp_plant,age=2
+,,2,kelp_plant,age=3
+,,3,kelp_plant,age=5
+,,4,kelp_plant,age=7
+,,5,kelp_plant,age=8
+,,6,kelp_plant,age=10
+,,7,kelp_plant,age=12
+,,8,kelp_plant,age=13
+,,9,kelp_plant,age=15
+,,10,kelp_plant,age=17
+,,11,kelp_plant,age=18
+,,12,kelp_plant,age=20
+,,13,kelp_plant,age=22
+,,14,kelp_plant,age=23
+,,15,kelp,age=25
+ladder,,2,ladder,facing=north
+,,3,ladder,facing=south
+,,4,ladder,facing=west
+,,5,ladder,facing=east
+lapis_block,,,lapis_block,
+lapis_ore,,,lapis_ore,
+lava,,0,lava,level=0
+,,1,lava,level=1
+,,2,lava,level=2
+,,3,lava,level=3
+,,4,lava,level=4
+,,5,lava,level=5
+,,6,lava,level=6
+,,7,lava,level=7
+,,8,lava,level=8
+,,9,lava,level=9
+,,10,lava,level=10
+,,11,lava,level=11
+,,12,lava,level=12
+,,13,lava,level=13
+,,14,lava,level=14
+,,15,lava,level=15
+leaves,,0,oak_leaves,persistent=true
+,,1,spruce_leaves,persistent=true
+,,2,birch_leaves,persistent=true
+,,3,jungle_leaves,persistent=true
+,,4,oak_leaves,persistent=true
+,,5,spruce_leaves,persistent=true
+,,6,birch_leaves,persistent=true
+,,7,jungle_leaves,persistent=true
+,,8,oak_leaves,persistent=false
+,,9,spruce_leaves,persistent=false
+,,10,birch_leaves,persistent=false
+,,11,jungle_leaves,persistent=false
+,,12,oak_leaves,persistent=true
+,,13,spruce_leaves,persistent=true
+,,14,birch_leaves,persistent=true
+,,15,jungle_leaves,persistent=true
+leaves2,,0,acacia_leaves,persistent=true
+,,1,dark_oak_leaves,persistent=true
+,,4,acacia_leaves,persistent=true
+,,5,dark_oak_leaves,persistent=true
+,,8,acacia_leaves,persistent=false
+,,9,dark_oak_leaves,persistent=false
+,,12,acacia_leaves,persistent=true
+,,13,dark_oak_leaves,persistent=true
+lever,,0,lever,face=ceiling | facing=east | powered=false
+,,1,lever,face=wall | facing=east | powered=false
+,,2,lever,face=wall | facing=west | powered=false
+,,3,lever,face=wall | facing=south | powered=false
+,,4,lever,face=wall | facing=north | powered=false
+,,5,lever,face=floor | facing=south | powered=false
+,,6,lever,face=floor | facing=east | powered=false
+,,7,lever,face=ceiling | facing=south | powered=false
+,,8,lever,face=ceiling | facing=east | powered=true
+,,9,lever,face=wall | facing=east | powered=true
+,,10,lever,face=wall | facing=west | powered=true
+,,11,lever,face=wall | facing=south | powered=true
+,,12,lever,face=wall | facing=north | powered=true
+,,13,lever,face=floor | facing=south | powered=true
+,,14,lever,face=floor | facing=east | powered=true
+,,15,lever,face=ceiling | facing=south | powered=true
+light_blue_glazed_terracotta,,0,light_blue_glazed_terracotta,facing=south
+,,1,light_blue_glazed_terracotta,facing=west
+,,2,light_blue_glazed_terracotta,facing=north
+,,3,light_blue_glazed_terracotta,facing=east
+light_blue_shulker_box,,0,light_blue_shulker_box,facing=down
+,,1,light_blue_shulker_box,facing=up
+,,2,light_blue_shulker_box,facing=north
+,,3,light_blue_shulker_box,facing=south
+,,4,light_blue_shulker_box,facing=west
+,,5,light_blue_shulker_box,facing=east
+light_gray_glazed_terracotta,,0,light_gray_glazed_terracotta,facing=south
+,,1,light_gray_glazed_terracotta,facing=west
+,,2,light_gray_glazed_terracotta,facing=north
+,,3,light_gray_glazed_terracotta,facing=east
+light_gray_shulker_box,,0,light_gray_shulker_box,facing=down
+,,1,light_gray_shulker_box,facing=up
+,,2,light_gray_shulker_box,facing=north
+,,3,light_gray_shulker_box,facing=south
+,,4,light_gray_shulker_box,facing=west
+,,5,light_gray_shulker_box,facing=east
+light_weighted_pressure_plate,,0,light_weighted_pressure_plate,power=0
+,,1,light_weighted_pressure_plate,power=1
+,,2,light_weighted_pressure_plate,power=2
+,,3,light_weighted_pressure_plate,power=3
+,,4,light_weighted_pressure_plate,power=4
+,,5,light_weighted_pressure_plate,power=5
+,,6,light_weighted_pressure_plate,power=6
+,,7,light_weighted_pressure_plate,power=7
+,,8,light_weighted_pressure_plate,power=8
+,,9,light_weighted_pressure_plate,power=9
+,,10,light_weighted_pressure_plate,power=10
+,,11,light_weighted_pressure_plate,power=11
+,,12,light_weighted_pressure_plate,power=12
+,,13,light_weighted_pressure_plate,power=13
+,,14,light_weighted_pressure_plate,power=14
+,,15,light_weighted_pressure_plate,power=15
+lime_glazed_terracotta,,0,lime_glazed_terracotta,facing=south
+,,1,lime_glazed_terracotta,facing=west
+,,2,lime_glazed_terracotta,facing=north
+,,3,lime_glazed_terracotta,facing=east
+lime_shulker_box,,0,lime_shulker_box,facing=down
+,,1,lime_shulker_box,facing=up
+,,2,lime_shulker_box,facing=north
+,,3,lime_shulker_box,facing=south
+,,4,lime_shulker_box,facing=west
+,,5,lime_shulker_box,facing=east
+lit_furnace,,2,furnace,facing=north | lit=true
+,,3,furnace,facing=south | lit=true
+,,4,furnace,facing=west | lit=true
+,,5,furnace,facing=east | lit=true
+lit_pumpkin,,0,jack_o_lantern,facing=south
+,,1,jack_o_lantern,facing=west
+,,2,jack_o_lantern,facing=north
+,,3,jack_o_lantern,facing=east
+lit_redstone_lamp,,,redstone_lamp,lit=true
+lit_redstone_ore,,,redstone_ore,lit=true
+log,,0,oak_log,axis=y
+,,1,spruce_log,axis=y
+,,2,birch_log,axis=y
+,,3,jungle_log,axis=y
+,,4,oak_log,axis=x
+,,5,spruce_log,axis=x
+,,6,birch_log,axis=x
+,,7,jungle_log,axis=x
+,,8,oak_log,axis=z
+,,9,spruce_log,axis=z
+,,10,birch_log,axis=z
+,,11,jungle_log,axis=z
+,,12,oak_wood,
+,,13,spruce_wood,
+,,14,birch_wood,
+,,15,jungle_wood,
+log2,,0,acacia_log,axis=y
+,,1,dark_oak_log,axis=y
+,,4,acacia_log,axis=x
+,,5,dark_oak_log,axis=x
+,,8,acacia_log,axis=z
+,,9,dark_oak_log,axis=z
+,,12,acacia_wood,
+,,13,dark_oak_wood,
+magenta_glazed_terracotta,,0,magenta_glazed_terracotta,facing=south
+,,1,magenta_glazed_terracotta,facing=west
+,,2,magenta_glazed_terracotta,facing=north
+,,3,magenta_glazed_terracotta,facing=east
+magenta_shulker_box,,0,magenta_shulker_box,facing=down
+,,1,magenta_shulker_box,facing=up
+,,2,magenta_shulker_box,facing=north
+,,3,magenta_shulker_box,facing=south
+,,4,magenta_shulker_box,facing=west
+,,5,magenta_shulker_box,facing=east
+magma,,,magma_block,
+melon_block,,,melon,
+melon_stem,,0,melon_stem,age=0
+,,1,melon_stem,age=1
+,,2,melon_stem,age=2
+,,3,melon_stem,age=3
+,,4,melon_stem,age=4
+,,5,melon_stem,age=5
+,,6,melon_stem,age=6
+,,7,melon_stem,age=7
+mob_spawner,,0,spawner,
+,,0,infested_stone,
+,,1,infested_cobblestone,
+,,2,infested_stone_bricks,
+,,3,infested_mossy_stone_bricks,
+,,4,infested_cracked_stone_bricks,
+,,5,infested_chiseled_stone_bricks,
+mossy_cobblestone,,,mossy_cobblestone,
+mycelium,,,mycelium,
+nether_brick_fence,,,nether_brick_fence,
+nether_brick_stairs,,0,nether_brick_stairs,facing=east | half=bottom
+,,1,nether_brick_stairs,facing=west | half=bottom
+,,2,nether_brick_stairs,facing=south | half=bottom
+,,3,nether_brick_stairs,facing=north | half=bottom
+,,4,nether_brick_stairs,facing=east | half=top
+,,5,nether_brick_stairs,facing=west | half=top
+,,6,nether_brick_stairs,facing=south | half=top
+,,7,nether_brick_stairs,facing=north | half=top
+nether_bricks,,,nether_bricks,
+nether_wart,,0,nether_wart,age=0
+,,1,nether_wart,age=1
+,,2,nether_wart,age=2
+,,3,nether_wart,age=3
+nether_wart_block,,,nether_wart_block,
+netherrack,,,netherrack,
+noteblock,,,note_block,
+oak_stairs,,0,oak_stairs,facing=east | half=bottom
+,,1,oak_stairs,facing=west | half=bottom
+,,2,oak_stairs,facing=south | half=bottom
+,,3,oak_stairs,facing=north | half=bottom
+,,4,oak_stairs,facing=east | half=top
+,,5,oak_stairs,facing=west | half=top
+,,6,oak_stairs,facing=south | half=top
+,,7,oak_stairs,facing=north | half=top
+observer,,0,observer,facing=down | powered=false
+,,1,observer,facing=up | powered=false
+,,2,observer,facing=north | powered=false
+,,3,observer,facing=south | powered=false
+,,4,observer,facing=west | powered=false
+,,5,observer,facing=east | powered=false
+,,8,observer,facing=down | powered=true
+,,9,observer,facing=up | powered=true
+,,10,observer,facing=north | powered=true
+,,11,observer,facing=south | powered=true
+,,12,observer,facing=west | powered=true
+,,13,observer,facing=east | powered=true
+obsidian,,,obsidian,
+orange_glazed_terracotta,,0,orange_glazed_terracotta,facing=south
+,,1,orange_glazed_terracotta,facing=west
+,,2,orange_glazed_terracotta,facing=north
+,,3,orange_glazed_terracotta,facing=east
+orange_shulker_box,,0,orange_shulker_box,facing=down
+,,1,orange_shulker_box,facing=up
+,,2,orange_shulker_box,facing=north
+,,3,orange_shulker_box,facing=south
+,,4,orange_shulker_box,facing=west
+,,5,orange_shulker_box,facing=east
+packed_ice,,,packed_ice,
+pink_glazed_terracotta,,0,pink_glazed_terracotta,facing=south
+,,1,pink_glazed_terracotta,facing=west
+,,2,pink_glazed_terracotta,facing=north
+,,3,pink_glazed_terracotta,facing=east
+pink_shulker_box,,0,pink_shulker_box,facing=down
+,,1,pink_shulker_box,facing=up
+,,2,pink_shulker_box,facing=north
+,,3,pink_shulker_box,facing=south
+,,4,pink_shulker_box,facing=west
+,,5,pink_shulker_box,facing=east
+piston,,0,piston,extended=false | facing=down
+,,1,piston,extended=false | facing=up
+,,2,piston,extended=false | facing=north
+,,3,piston,extended=false | facing=south
+,,4,piston,extended=false | facing=west
+,,5,piston,extended=false | facing=east
+,,6,piston,extended=false | facing=up
+,,7,piston,extended=false | facing=up
+,,8,piston,extended=true | facing=down
+,,9,piston,extended=true | facing=up
+,,10,piston,extended=true | facing=north
+,,11,piston,extended=true | facing=south
+,,12,piston,extended=true | facing=west
+,,13,piston,extended=true | facing=east
+,,14,piston,extended=true | facing=up
+,,15,piston,extended=true | facing=up
+piston_extension,,0,moving_piston,type=normal | facing=down
+,,1,moving_piston,type=normal | facing=up
+,,2,moving_piston,type=normal | facing=north
+,,3,moving_piston,type=normal | facing=south
+,,4,moving_piston,type=normal | facing=west
+,,5,moving_piston,type=normal | facing=east
+,,6,moving_piston,type=normal | facing=up
+,,7,moving_piston,type=normal | facing=up
+,,8,moving_piston,type=sticky | facing=down
+,,9,moving_piston,type=sticky | facing=up
+,,10,moving_piston,type=sticky | facing=north
+,,11,moving_piston,type=sticky | facing=south
+,,12,moving_piston,type=sticky | facing=west
+,,13,moving_piston,type=sticky | facing=east
+,,14,moving_piston,type=sticky | facing=up
+,,15,moving_piston,type=sticky | facing=up
+piston_head,,0,piston_head,type=normal | facing=down
+,,1,piston_head,type=normal | facing=up
+,,2,piston_head,type=normal | facing=north
+,,3,piston_head,type=normal | facing=south
+,,4,piston_head,type=normal | facing=west
+,,5,piston_head,type=normal | facing=east
+,,6,piston_head,type=normal | facing=up
+,,7,piston_head,type=normal | facing=up
+,,8,piston_head,type=sticky | facing=down
+,,9,piston_head,type=sticky | facing=up
+,,10,piston_head,type=sticky | facing=north
+,,11,piston_head,type=sticky | facing=south
+,,12,piston_head,type=sticky | facing=west
+,,13,piston_head,type=sticky | facing=east
+,,14,piston_head,type=sticky | facing=up
+,,15,piston_head,type=sticky | facing=up
+planks,,0,oak_planks,
+,,1,spruce_planks,
+,,2,birch_planks,
+,,3,jungle_planks,
+,,4,acacia_planks,
+,,5,dark_oak_planks,
+portal,,0,nether_portal,axis=z
+,,1,nether_portal,axis=x
+,,2,nether_portal,axis=z
+potatoes,,0,potatoes,age=0
+,,1,potatoes,age=1
+,,2,potatoes,age=2
+,,3,potatoes,age=3
+,,4,potatoes,age=4
+,,5,potatoes,age=5
+,,6,potatoes,age=6
+,,7,potatoes,age=7
+powered_comparator,,0,comparator,facing=north | mode=compare | powered=true
+,,1,comparator,facing=east | mode=compare | powered=true
+,,2,comparator,facing=south | mode=compare | powered=true
+,,3,comparator,facing=west | mode=compare | powered=true
+,,4,comparator,facing=north | mode=subtract | powered=true
+,,5,comparator,facing=east | mode=subtract | powered=true
+,,6,comparator,facing=south | mode=subtract | powered=true
+,,7,comparator,facing=west | mode=subtract | powered=true
+powered_repeater,,0,repeater,delay=1 | facing=south | powered=true
+,,1,repeater,delay=1 | facing=west | powered=true
+,,2,repeater,delay=1 | facing=north | powered=true
+,,3,repeater,delay=1 | facing=east | powered=true
+,,4,repeater,delay=1 | facing=south | powered=true
+,,5,repeater,delay=2 | facing=west | powered=true
+,,6,repeater,delay=2 | facing=north | powered=true
+,,7,repeater,delay=2 | facing=east | powered=true
+,,8,repeater,delay=3 | facing=south | powered=true
+,,9,repeater,delay=3 | facing=west | powered=true
+,,10,repeater,delay=3 | facing=north | powered=true
+,,11,repeater,delay=3 | facing=east | powered=true
+,,12,repeater,delay=4 | facing=south | powered=true
+,,13,repeater,delay=4 | facing=west | powered=true
+,,14,repeater,delay=4 | facing=north | powered=true
+,,15,repeater,delay=4 | facing=east | powered=true
+prismarine,,0,prismarine,
+,,1,prismarine_bricks,
+,,2,dark_prismarine,
+prismarine_bricks_stairs,,0,prismarine_brick_stairs,facing=east | half=bottom
+,,1,prismarine_brick_stairs,facing=west | half=bottom
+,,2,prismarine_brick_stairs,facing=south | half=bottom
+,,3,prismarine_brick_stairs,facing=north | half=bottom
+,,4,prismarine_brick_stairs,facing=east | half=top
+,,5,prismarine_brick_stairs,facing=west | half=top
+,,6,prismarine_brick_stairs,facing=south | half=top
+,,7,prismarine_brick_stairs,facing=north | half=top
+prismarine_slab,,0,prismarine_slab,type=bottom
+,,1,prismarine_brick_slab,type=bottom
+,,2,dark_prismarine_slab,type=bottom
+,,8,prismarine_slab,type=top
+,,9,prismarine_brick_slab,type=top
+,,10,dark_prismarine_slab,type=top
+prismarine_stairs,,0,prismarine_stairs,facing=east | half=bottom
+,,1,prismarine_stairs,facing=west | half=bottom
+,,2,prismarine_stairs,facing=south | half=bottom
+,,3,prismarine_stairs,facing=north | half=bottom
+,,4,prismarine_stairs,facing=east | half=top
+,,5,prismarine_stairs,facing=west | half=top
+,,6,prismarine_stairs,facing=south | half=top
+,,7,prismarine_stairs,facing=north | half=top
+pumpkin,12,0,pumpkin,
+,,0,carved_pumpkin,facing=south
+,,1,carved_pumpkin,facing=west
+,,2,carved_pumpkin,facing=north
+,,3,carved_pumpkin,facing=east
+pumpkin_stem,,0,pumpkin_stem,age=0
+,,1,pumpkin_stem,age=1
+,,2,pumpkin_stem,age=2
+,,3,pumpkin_stem,age=3
+,,4,pumpkin_stem,age=4
+,,5,pumpkin_stem,age=5
+,,6,pumpkin_stem,age=6
+,,7,pumpkin_stem,age=7
+purple_glazed_terracotta,,0,purple_glazed_terracotta,facing=south
+,,1,purple_glazed_terracotta,facing=west
+,,2,purple_glazed_terracotta,facing=north
+,,3,purple_glazed_terracotta,facing=east
+purple_shulker_box,,0,purple_shulker_box,facing=down
+,,1,purple_shulker_box,facing=up
+,,2,purple_shulker_box,facing=north
+,,3,purple_shulker_box,facing=south
+,,4,purple_shulker_box,facing=west
+,,5,purple_shulker_box,facing=east
+purpur_block,,,purpur_block,
+purpur_pillar,,0,purpur_pillar,axis=y
+,,4,purpur_pillar,axis=x
+,,8,purpur_pillar,axis=z
+purpur_slab,,0,purpur_slab,type=bottom
+,,8,purpur_slab,type=top
+purpur_stairs,,0,purpur_stairs,facing=east | half=bottom
+,,1,purpur_stairs,facing=west | half=bottom
+,,2,purpur_stairs,facing=south | half=bottom
+,,3,purpur_stairs,facing=north | half=bottom
+,,4,purpur_stairs,facing=east | half=top
+,,5,purpur_stairs,facing=west | half=top
+,,6,purpur_stairs,facing=south | half=top
+,,7,purpur_stairs,facing=north | half=top
+quartz_block,,0,quartz_block,
+,,1,chiseled_quartz_block,
+,,2,quartz_pillar,axis=y
+,,3,quartz_pillar,axis=x
+,,4,quartz_pillar,axis=z
+quartz_ore,,,nether_quartz_ore,
+quartz_stairs,,0,quartz_stairs,facing=east | half=bottom
+,,1,quartz_stairs,facing=west | half=bottom
+,,2,quartz_stairs,facing=south | half=bottom
+,,3,quartz_stairs,facing=north | half=bottom
+,,4,quartz_stairs,facing=east | half=top
+,,5,quartz_stairs,facing=west | half=top
+,,6,quartz_stairs,facing=south | half=top
+,,7,quartz_stairs,facing=north | half=top
+rail,,0,rail,shape=north_south
+,,1,rail,shape=east_west
+,,2,rail,shape=ascending_east
+,,3,rail,shape=ascending_west
+,,4,rail,shape=ascending_north
+,,5,rail,shape=ascending_south
+,,6,rail,shape=south_east
+,,7,rail,shape=south_west
+,,8,rail,shape=north_west
+,,9,rail,shape=north_east
+red_flower,,0,poppy,
+,,1,blue_orchid,
+,,2,allium,
+,,3,azure_bluet,
+,,4,red_tulip,
+,,5,orange_tulip,
+,,6,white_tulip,
+,,7,pink_tulip,
+,,8,oxeye_daisy,
+red_glazed_terracotta,,0,red_glazed_terracotta,facing=south
+,,1,red_glazed_terracotta,facing=west
+,,2,red_glazed_terracotta,facing=north
+,,3,red_glazed_terracotta,facing=east
+red_mushroom,,,red_mushroom,
+red_mushroom_block,,0,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+,,1,red_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=false
+,,2,red_mushroom_block,down=true | east=true | north=false | south=true | up=false | west=true
+,,3,red_mushroom_block,down=true | east=false | north=false | south=true | up=false | west=true
+,,4,red_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=false
+,,5,red_mushroom_block,down=true | east=true | north=true | south=true | up=false | west=true
+,,6,red_mushroom_block,down=true | east=false | north=true | south=true | up=false | west=true
+,,7,red_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=false
+,,8,red_mushroom_block,down=true | east=true | north=true | south=false | up=false | west=true
+,,9,red_mushroom_block,down=true | east=false | north=true | south=false | up=false | west=true
+,,10,red_mushroom_block,down=false | east=true | north=true | south=true | up=false | west=true
+,,14,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+,,15,red_mushroom_block,down=true | east=true | north=true | south=true | up=true | west=true
+red_nether_brick,,,red_nether_bricks,
+red_sandstone,,0,red_sandstone,
+,,1,chiseled_red_sandstone,
+,,2,cut_red_sandstone,
+red_sandstone_stairs,,0,red_sandstone_stairs,facing=east | half=bottom
+,,1,red_sandstone_stairs,facing=west | half=bottom
+,,2,red_sandstone_stairs,facing=south | half=bottom
+,,3,red_sandstone_stairs,facing=north | half=bottom
+,,4,red_sandstone_stairs,facing=east | half=top
+,,5,red_sandstone_stairs,facing=west | half=top
+,,6,red_sandstone_stairs,facing=south | half=top
+,,7,red_sandstone_stairs,facing=north | half=top
+red_shulker_box,,0,red_shulker_box,facing=down
+,,1,red_shulker_box,facing=up
+,,2,red_shulker_box,facing=north
+,,3,red_shulker_box,facing=south
+,,4,red_shulker_box,facing=west
+,,5,red_shulker_box,facing=east
+redstone_block,,,redstone_block,
+redstone_lamp,,,redstone_lamp,lit=false
+redstone_ore,,,redstone_ore,lit=false
+redstone_torch,,1,redstone_wall_torch,facing=east | lit=true
+,,2,redstone_wall_torch,facing=west | lit=true
+,,3,redstone_wall_torch,facing=south | lit=true
+,,4,redstone_wall_torch,facing=north | lit=true
+,,5,redstone_torch,lit=true
+redstone_wire,,0,redstone_wire,power=0
+,,1,redstone_wire,power=1
+,,2,redstone_wire,power=2
+,,3,redstone_wire,power=3
+,,4,redstone_wire,power=4
+,,5,redstone_wire,power=5
+,,6,redstone_wire,power=6
+,,7,redstone_wire,power=7
+,,8,redstone_wire,power=8
+,,9,redstone_wire,power=9
+,,10,redstone_wire,power=10
+,,11,redstone_wire,power=11
+,,12,redstone_wire,power=12
+,,13,redstone_wire,power=13
+,,14,redstone_wire,power=14
+,,15,redstone_wire,power=15
+sand,,0,sand,
+,,1,red_sand,
+sandstone,,0,sandstone,
+,,1,chiseled_sandstone,
+,,2,cut_sandstone,
+sandstone_stairs,,0,sandstone_stairs,facing=east | half=bottom
+,,1,sandstone_stairs,facing=west | half=bottom
+,,2,sandstone_stairs,facing=south | half=bottom
+,,3,sandstone_stairs,facing=north | half=bottom
+,,4,sandstone_stairs,facing=east | half=top
+,,5,sandstone_stairs,facing=west | half=top
+,,6,sandstone_stairs,facing=south | half=top
+,,7,sandstone_stairs,facing=north | half=top
+sapling,,0,oak_sapling,stage=0
+,,1,spruce_sapling,stage=0
+,,2,birch_sapling,stage=0
+,,3,jungle_sapling,stage=0
+,,4,acacia_sapling,stage=0
+,,5,dark_oak_sapling,stage=0
+,,8,oak_sapling,stage=1
+,,9,spruce_sapling,stage=1
+,,10,birch_sapling,stage=1
+,,11,jungle_sapling,stage=1
+,,12,acacia_sapling,stage=1
+,,13,dark_oak_sapling,stage=1
+sea_grass,,0,seagrass,
+,,1,tall_seagrass,half=upper
+,,2,tall_seagrass,half=lower
+sea_lantern,,,sea_lantern,
+sea_pickle,,0,sea_pickle,pickles=1
+,,1,sea_pickle,pickles=2
+,,2,sea_pickle,pickles=3
+,,3,sea_pickle,pickles=4
+skull,,1,skeleton_skull,rotation=0
+,,2,skeleton_wall_skull,facing=north
+,,3,skeleton_wall_skull,facing=south
+,,4,skeleton_wall_skull,facing=west
+,,5,skeleton_wall_skull,facing=east
+slime,,,slime_block,
+snow,,,snow_block,
+snow_layer,,0,snow,layers=1
+,,1,snow,layers=2
+,,2,snow,layers=3
+,,3,snow,layers=4
+,,4,snow,layers=5
+,,5,snow,layers=6
+,,6,snow,layers=7
+,,7,snow,layers=8
+soul_sand,,,soul_sand,
+sponge,,0,sponge,
+,,1,wet_sponge,
+spruce_button,,0,spruce_button,face=ceiling | powered=false
+,,1,spruce_button,face=wall | facing=east | powered=false
+,,2,spruce_button,face=wall | facing=west | powered=false
+,,3,spruce_button,face=wall | facing=south | powered=false
+,,4,spruce_button,face=wall | facing=north | powered=false
+,,5,spruce_button,face=floor | powered=false
+,,8,spruce_button,face=ceiling | powered=true
+,,9,spruce_button,face=wall | facing=east | powered=true
+,,10,spruce_button,face=wall | facing=west | powered=true
+,,11,spruce_button,face=wall | facing=south | powered=true
+,,12,spruce_button,face=wall | facing=north | powered=true
+,,13,spruce_button,face=floor | powered=true
+spruce_door,,0,spruce_door,facing=east | half=lower | open=false
+,,1,spruce_door,facing=south | half=lower | open=false
+,,2,spruce_door,facing=west | half=lower | open=false
+,,3,spruce_door,facing=north | half=lower | open=false
+,,4,spruce_door,facing=east | half=lower | open=true
+,,5,spruce_door,facing=south | half=lower | open=true
+,,6,spruce_door,facing=west | half=lower | open=true
+,,7,spruce_door,facing=north | half=lower | open=true
+,,8,spruce_door,half=upper | hinge=left | powered=false
+,,9,spruce_door,half=upper | hinge=right | powered=false
+,,10,spruce_door,half=upper | hinge=left | powered=true
+,,11,spruce_door,half=upper | hinge=right | powered=true
+,,12,spruce_door,half=upper | hinge=left | powered=false
+,,13,spruce_door,half=upper | hinge=right | powered=false
+,,14,spruce_door,half=upper | hinge=left | powered=true
+,,15,spruce_door,half=upper | hinge=right | powered=true
+spruce_fence,,,spruce_fence,
+spruce_fence_gate,,0,spruce_fence_gate,facing=south | in_wall=false | open=false
+,,1,spruce_fence_gate,facing=west | in_wall=false | open=false
+,,2,spruce_fence_gate,facing=north | in_wall=false | open=false
+,,3,spruce_fence_gate,facing=east | in_wall=false | open=false
+,,4,spruce_fence_gate,facing=south | in_wall=false | open=true
+,,5,spruce_fence_gate,facing=west | in_wall=false | open=true
+,,6,spruce_fence_gate,facing=north | in_wall=false | open=true
+,,7,spruce_fence_gate,facing=east | in_wall=false | open=true
+,,8,spruce_fence_gate,facing=south | in_wall=true | open=false
+,,9,spruce_fence_gate,facing=west | in_wall=true | open=false
+,,10,spruce_fence_gate,facing=north | in_wall=true | open=false
+,,11,spruce_fence_gate,facing=east | in_wall=true | open=false
+,,12,spruce_fence_gate,facing=south | in_wall=true | open=true
+,,13,spruce_fence_gate,facing=west | in_wall=true | open=true
+,,14,spruce_fence_gate,facing=north | in_wall=true | open=true
+,,15,spruce_fence_gate,facing=east | in_wall=true | open=true
+spruce_pressure_plate,,0,spruce_pressure_plate,powered=false
+,,1,spruce_pressure_plate,powered=true
+spruce_stairs,,0,spruce_stairs,facing=east | half=bottom
+,,1,spruce_stairs,facing=west | half=bottom
+,,2,spruce_stairs,facing=south | half=bottom
+,,3,spruce_stairs,facing=north | half=bottom
+,,4,spruce_stairs,facing=east | half=top
+,,5,spruce_stairs,facing=west | half=top
+,,6,spruce_stairs,facing=south | half=top
+,,7,spruce_stairs,facing=north | half=top
+spruce_trapdoor,,0,spruce_trapdoor,facing=north | half=bottom | open=false
+,,1,spruce_trapdoor,facing=south | half=bottom | open=false
+,,2,spruce_trapdoor,facing=west | half=bottom | open=false
+,,3,spruce_trapdoor,facing=east | half=bottom | open=false
+,,4,spruce_trapdoor,facing=north | half=bottom | open=true
+,,5,spruce_trapdoor,facing=south | half=bottom | open=true
+,,6,spruce_trapdoor,facing=west | half=bottom | open=true
+,,7,spruce_trapdoor,facing=east | half=bottom | open=true
+,,8,spruce_trapdoor,facing=north | half=top | open=false
+,,9,spruce_trapdoor,facing=south | half=top | open=false
+,,10,spruce_trapdoor,facing=west | half=top | open=false
+,,11,spruce_trapdoor,facing=east | half=top | open=false
+,,12,spruce_trapdoor,facing=north | half=top | open=true
+,,13,spruce_trapdoor,facing=south | half=top | open=true
+,,14,spruce_trapdoor,facing=west | half=top | open=true
+,,15,spruce_trapdoor,facing=east | half=top | open=true
+stained_glass,,0,white_stained_glass,
+,,1,orange_stained_glass,
+,,2,magenta_stained_glass,
+,,3,light_blue_stained_glass,
+,,4,yellow_stained_glass,
+,,5,lime_stained_glass,
+,,6,pink_stained_glass,
+,,7,gray_stained_glass,
+,,8,light_gray_stained_glass,
+,,9,cyan_stained_glass,
+,,10,purple_stained_glass,
+,,11,blue_stained_glass,
+,,12,brown_stained_glass,
+,,13,green_stained_glass,
+,,14,red_stained_glass,
+,,15,black_stained_glass,
+stained_glass_pane,,0,white_stained_glass_pane,
+,,1,orange_stained_glass_pane,
+,,2,magenta_stained_glass_pane,
+,,3,light_blue_stained_glass_pane,
+,,4,yellow_stained_glass_pane,
+,,5,lime_stained_glass_pane,
+,,6,pink_stained_glass_pane,
+,,7,gray_stained_glass_pane,
+,,8,light_gray_stained_glass_pane,
+,,9,cyan_stained_glass_pane,
+,,10,purple_stained_glass_pane,
+,,11,blue_stained_glass_pane,
+,,12,brown_stained_glass_pane,
+,,13,green_stained_glass_pane,
+,,14,red_stained_glass_pane,
+,,15,black_stained_glass_pane,
+stained_hardened_clay,,0,white_terracotta,
+,,1,orange_terracotta,
+,,2,magenta_terracotta,
+,,3,light_blue_terracotta,
+,,4,yellow_terracotta,
+,,5,lime_terracotta,
+,,6,pink_terracotta,
+,,7,gray_terracotta,
+,,8,light_gray_terracotta,
+,,9,cyan_terracotta,
+,,10,purple_terracotta,
+,,11,blue_terracotta,
+,,12,brown_terracotta,
+,,13,green_terracotta,
+,,14,red_terracotta,
+,,15,black_terracotta,
+standing_banner,,0,white_banner,rotation=0
+,,1,white_banner,rotation=1
+,,2,white_banner,rotation=2
+,,3,white_banner,rotation=3
+,,4,white_banner,rotation=4
+,,5,white_banner,rotation=5
+,,6,white_banner,rotation=6
+,,7,white_banner,rotation=7
+,,8,white_banner,rotation=8
+,,9,white_banner,rotation=9
+,,10,white_banner,rotation=10
+,,11,white_banner,rotation=11
+,,12,white_banner,rotation=12
+,,13,white_banner,rotation=13
+,,14,white_banner,rotation=14
+,,15,white_banner,rotation=15
+standing_sign,,0,sign,rotation=0
+,,1,sign,rotation=1
+,,2,sign,rotation=2
+,,3,sign,rotation=3
+,,4,sign,rotation=4
+,,5,sign,rotation=5
+,,6,sign,rotation=6
+,,7,sign,rotation=7
+,,8,sign,rotation=8
+,,9,sign,rotation=9
+,,10,sign,rotation=10
+,,11,sign,rotation=11
+,,12,sign,rotation=12
+,,13,sign,rotation=13
+,,14,sign,rotation=14
+,,15,sign,rotation=15
+sticky_piston,,0,sticky_piston,extended=false | facing=down
+,,1,sticky_piston,extended=false | facing=up
+,,2,sticky_piston,extended=false | facing=north
+,,3,sticky_piston,extended=false | facing=south
+,,4,sticky_piston,extended=false | facing=west
+,,5,sticky_piston,extended=false | facing=east
+,,6,sticky_piston,extended=false | facing=up
+,,7,sticky_piston,extended=false | facing=up
+,,8,sticky_piston,extended=true | facing=down
+,,9,sticky_piston,extended=true | facing=up
+,,10,sticky_piston,extended=true | facing=north
+,,11,sticky_piston,extended=true | facing=south
+,,12,sticky_piston,extended=true | facing=west
+,,13,sticky_piston,extended=true | facing=east
+,,14,sticky_piston,extended=true | facing=up
+,,15,sticky_piston,extended=true | facing=up
+stone,,0,stone,
+,,1,granite,
+,,2,polished_granite,
+,,3,diorite,
+,,4,polished_diorite,
+,,5,andesite,
+,,6,polished_andesite,
+stone_brick_stairs,,0,stone_brick_stairs,facing=east | half=bottom
+,,1,stone_brick_stairs,facing=west | half=bottom
+,,2,stone_brick_stairs,facing=south | half=bottom
+,,3,stone_brick_stairs,facing=north | half=bottom
+,,4,stone_brick_stairs,facing=east | half=top
+,,5,stone_brick_stairs,facing=west | half=top
+,,6,stone_brick_stairs,facing=south | half=top
+,,7,stone_brick_stairs,facing=north | half=top
+stone_button,,0,stone_button,face=ceiling | powered=false
+,,1,stone_button,face=wall | facing=east | powered=false
+,,2,stone_button,face=wall | facing=west | powered=false
+,,3,stone_button,face=wall | facing=south | powered=false
+,,4,stone_button,face=wall | facing=north | powered=false
+,,5,stone_button,face=floor | powered=false
+,,8,stone_button,face=ceiling | powered=true
+,,9,stone_button,face=wall | facing=east | powered=true
+,,10,stone_button,face=wall | facing=west | powered=true
+,,11,stone_button,face=wall | facing=south | powered=true
+,,12,stone_button,face=wall | facing=north | powered=true
+,,13,stone_button,face=floor | powered=true
+stone_pressure_plate,,0,stone_pressure_plate,powered=false
+,,1,stone_pressure_plate,powered=true
+stone_slab,,0,stone_slab,type=bottom
+,,1,sandstone_slab,type=bottom
+,,2,petrified_oak_slab,type=bottom
+,,3,cobblestone_slab,type=bottom
+,,4,brick_slab,type=bottom
+,,5,stone_brick_slab,type=bottom
+,,6,nether_brick_slab,type=bottom
+,,7,quartz_slab,type=bottom
+,,8,stone_slab,type=top
+,,9,sandstone_slab,type=top
+,,10,petrified_oak_slab,type=top
+,,11,cobblestone_slab,type=top
+,,12,brick_slab,type=top
+,,13,stone_brick_slab,type=top
+,,14,nether_brick_slab,type=top
+,,15,quartz_slab,type=top
+stone_slab2,,0,red_sandstone_slab,type=bottom
+,,8,red_sandstone_slab,type=top
+stonebrick,,0,stone_bricks,
+,,1,mossy_stone_bricks,
+,,2,cracked_stone_bricks,
+,,3,chiseled_stone_bricks,
+stripped_log_acacia,,0,stripped_acacia_log,axis=y
+,,4,stripped_acacia_log,axis=x
+,,8,stripped_acacia_log,axis=z
+stripped_log_birch,,0,stripped_birch_log,axis=y
+,,4,stripped_birch_log,axis=x
+,,8,stripped_birch_log,axis=z
+stripped_log_dark_oak,,0,stripped_dark_oak_log,axis=y
+,,4,stripped_dark_oak_log,axis=x
+,,8,stripped_dark_oak_log,axis=z
+stripped_log_jungle,,0,stripped_jungle_log,axis=y
+,,4,stripped_jungle_log,axis=x
+,,8,stripped_jungle_log,axis=z
+stripped_log_oak,,0,stripped_oak_log,axis=y
+,,4,stripped_oak_log,axis=x
+,,8,stripped_oak_log,axis=z
+stripped_log_spruce,,0,stripped_spruce_log,axis=y
+,,4,stripped_spruce_log,axis=x
+,,8,stripped_spruce_log,axis=z
+sugar_cane,,0,sugar_cane,age=0
+,,1,sugar_cane,age=1
+,,2,sugar_cane,age=2
+,,3,sugar_cane,age=3
+,,4,sugar_cane,age=4
+,,5,sugar_cane,age=5
+,,6,sugar_cane,age=6
+,,7,sugar_cane,age=7
+,,8,sugar_cane,age=8
+,,9,sugar_cane,age=9
+,,10,sugar_cane,age=10
+,,11,sugar_cane,age=11
+,,12,sugar_cane,age=12
+,,13,sugar_cane,age=13
+,,14,sugar_cane,age=14
+,,15,sugar_cane,age=15
+tallgrass,,0,dead_bush,
+,,1,grass,
+,,2,fern,
+tnt,,0,tnt,unstable=false
+,,1,tnt,unstable=true
+torch,,0,torch,
+,,1,wall_torch,facing=east
+,,2,wall_torch,facing=west
+,,3,wall_torch,facing=south
+,,4,wall_torch,facing=north
+,,5,torch,
+trapdoor,,0,oak_trapdoor,facing=north | half=bottom | open=false
+,,1,oak_trapdoor,facing=south | half=bottom | open=false
+,,2,oak_trapdoor,facing=west | half=bottom | open=false
+,,3,oak_trapdoor,facing=east | half=bottom | open=false
+,,4,oak_trapdoor,facing=north | half=bottom | open=true
+,,5,oak_trapdoor,facing=south | half=bottom | open=true
+,,6,oak_trapdoor,facing=west | half=bottom | open=true
+,,7,oak_trapdoor,facing=east | half=bottom | open=true
+,,8,oak_trapdoor,facing=north | half=top | open=false
+,,9,oak_trapdoor,facing=south | half=top | open=false
+,,10,oak_trapdoor,facing=west | half=top | open=false
+,,11,oak_trapdoor,facing=east | half=top | open=false
+,,12,oak_trapdoor,facing=north | half=top | open=true
+,,13,oak_trapdoor,facing=south | half=top | open=true
+,,14,oak_trapdoor,facing=west | half=top | open=true
+,,15,oak_trapdoor,facing=east | half=top | open=true
+trapped_chest,,2,trapped_chest,facing=north
+,,3,trapped_chest,facing=south
+,,4,trapped_chest,facing=west
+,,5,trapped_chest,facing=east
+tripwire,,0,tripwire,attached=false | disarmed=false | powered=false
+,,1,tripwire,attached=false | disarmed=false | powered=true
+,,2,tripwire,attached=false | disarmed=false | powered=false
+,,3,tripwire,attached=false | disarmed=false | powered=true
+,,4,tripwire,attached=true | disarmed=false | powered=false
+,,5,tripwire,attached=true | disarmed=false | powered=true
+,,6,tripwire,attached=true | disarmed=false | powered=false
+,,7,tripwire,attached=true | disarmed=false | powered=true
+,,8,tripwire,attached=false | disarmed=true | powered=false
+,,9,tripwire,attached=false | disarmed=true | powered=true
+,,10,tripwire,attached=false | disarmed=true | powered=false
+,,11,tripwire,attached=false | disarmed=true | powered=true
+,,12,tripwire,attached=true | disarmed=true | powered=false
+,,13,tripwire,attached=true | disarmed=true | powered=true
+,,14,tripwire,attached=true | disarmed=true | powered=false
+,,15,tripwire,attached=true | disarmed=true | powered=true
+tripwire_hook,,0,tripwire_hook,attached=false | facing=south | powered=false
+,,1,tripwire_hook,attached=false | facing=west | powered=false
+,,2,tripwire_hook,attached=false | facing=north | powered=false
+,,3,tripwire_hook,attached=false | facing=east | powered=false
+,,4,tripwire_hook,attached=true | facing=south | powered=false
+,,5,tripwire_hook,attached=true | facing=west | powered=false
+,,6,tripwire_hook,attached=true | facing=north | powered=false
+,,7,tripwire_hook,attached=true | facing=east | powered=false
+,,8,tripwire_hook,attached=false | facing=south | powered=true
+,,9,tripwire_hook,attached=false | facing=west | powered=true
+,,10,tripwire_hook,attached=false | facing=north | powered=true
+,,11,tripwire_hook,attached=false | facing=east | powered=true
+,,12,tripwire_hook,attached=true | facing=south | powered=true
+,,13,tripwire_hook,attached=true | facing=west | powered=true
+,,14,tripwire_hook,attached=true | facing=north | powered=true
+,,15,tripwire_hook,attached=true | facing=east | powered=true
+turtle_egg,,0,turtle_egg,eggs=1 | hatch=0
+,,1,turtle_egg,eggs=2 | hatch=0
+,,2,turtle_egg,eggs=3 | hatch=0
+,,3,turtle_egg,eggs=4 | hatch=0
+,,4,turtle_egg,eggs=1 | hatch=1
+,,5,turtle_egg,eggs=2 | hatch=1
+,,6,turtle_egg,eggs=3 | hatch=1
+,,7,turtle_egg,eggs=4 | hatch=1
+,,8,turtle_egg,eggs=1 | hatch=2
+,,9,turtle_egg,eggs=2 | hatch=2
+,,10,turtle_egg,eggs=3 | hatch=2
+,,11,turtle_egg,eggs=4 | hatch=2
+,,12,turtle_egg,eggs=1 | hatch=3
+,,13,turtle_egg,eggs=2 | hatch=3
+,,14,turtle_egg,eggs=3 | hatch=3
+,,15,turtle_egg,eggs=4 | hatch=3
+unlit_redstone_torch,,1,redstone_wall_torch,facing=east | lit=false
+,,2,redstone_wall_torch,facing=west | lit=false
+,,3,redstone_wall_torch,facing=south | lit=false
+,,4,redstone_wall_torch,facing=north | lit=false
+,,5,redstone_torch,lit=false
+unpowered_comparator,,0,comparator,facing=north | mode=compare | powered=false
+,,1,comparator,facing=east | mode=compare | powered=false
+,,2,comparator,facing=south | mode=compare | powered=false
+,,3,comparator,facing=west | mode=compare | powered=false
+,,4,comparator,facing=north | mode=subtract | powered=false
+,,5,comparator,facing=east | mode=subtract | powered=false
+,,6,comparator,facing=south | mode=subtract | powered=false
+,,7,comparator,facing=west | mode=subtract | powered=false
+unpowered_repeater,,0,repeater,delay=1 | facing=south | powered=false
+,,1,repeater,delay=1 | facing=west | powered=false
+,,2,repeater,delay=1 | facing=north | powered=false
+,,3,repeater,delay=1 | facing=east | powered=false
+,,4,repeater,delay=2 | facing=south | powered=false
+,,5,repeater,delay=2 | facing=west | powered=false
+,,6,repeater,delay=2 | facing=north | powered=false
+,,7,repeater,delay=2 | facing=east | powered=false
+,,8,repeater,delay=3 | facing=south | powered=false
+,,9,repeater,delay=3 | facing=west | powered=false
+,,10,repeater,delay=3 | facing=north | powered=false
+,,11,repeater,delay=3 | facing=east | powered=false
+,,12,repeater,delay=4 | facing=south | powered=false
+,,13,repeater,delay=4 | facing=west | powered=false
+,,14,repeater,delay=4 | facing=north | powered=false
+,,15,repeater,delay=4 | facing=east | powered=false
+vine,,0,vine,east=false | north=false | south=false | up=true | west=false
+,,1,vine,east=false | north=false | south=true | up=false | west=false
+,,2,vine,east=false | north=false | south=false | up=false | west=true
+,,3,vine,east=false | north=false | south=true | up=false | west=true
+,,4,vine,east=false | north=true | south=false | up=false | west=false
+,,5,vine,east=false | north=true | south=true | up=false | west=false
+,,6,vine,east=false | north=true | south=false | up=false | west=true
+,,7,vine,east=false | north=true | south=true | up=false | west=true
+,,8,vine,east=true | north=false | south=false | up=false | west=false
+,,9,vine,east=true | north=false | south=true | up=false | west=false
+,,10,vine,east=true | north=false | south=false | up=false | west=true
+,,11,vine,east=true | north=false | south=true | up=false | west=true
+,,12,vine,east=true | north=true | south=false | up=false | west=false
+,,13,vine,east=true | north=true | south=true | up=false | west=false
+,,14,vine,east=true | north=true | south=false | up=false | west=true
+,,15,vine,east=true | north=true | south=true | up=false | west=true
+wall_banner,,2,white_wall_banner,facing=north
+,,3,white_wall_banner,facing=south
+,,4,white_wall_banner,facing=west
+,,5,white_wall_banner,facing=east
+wall_sign,,2,wall_sign,facing=north
+,,3,wall_sign,facing=south
+,,4,wall_sign,facing=west
+,,5,wall_sign,facing=east
+water,,0,water,level=0
+,,1,water,level=1
+,,2,water,level=2
+,,3,water,level=3
+,,4,water,level=4
+,,5,water,level=5
+,,6,water,level=6
+,,7,water,level=7
+,,8,water,level=8
+,,9,water,level=9
+,,10,water,level=10
+,,11,water,level=11
+,,12,water,level=12
+,,13,water,level=13
+,,14,water,level=14
+,,15,water,level=15
+waterlily,,,lily_pad,
+wheat,,0,wheat,age=0
+,,1,wheat,age=1
+,,2,wheat,age=2
+,,3,wheat,age=3
+,,4,wheat,age=4
+,,5,wheat,age=5
+,,6,wheat,age=6
+,,7,wheat,age=7
+white_glazed_terracotta,,0,white_glazed_terracotta,facing=south
+,,1,white_glazed_terracotta,facing=west
+,,2,white_glazed_terracotta,facing=north
+,,3,white_glazed_terracotta,facing=east
+white_shulker_box,,0,white_shulker_box,facing=down
+,,1,white_shulker_box,facing=up
+,,2,white_shulker_box,facing=north
+,,3,white_shulker_box,facing=south
+,,4,white_shulker_box,facing=west
+,,5,white_shulker_box,facing=east
+wooden_button,,0,oak_button,face=ceiling | powered=false
+,,1,oak_button,face=wall | facing=east | powered=false
+,,2,oak_button,face=wall | facing=west | powered=false
+,,3,oak_button,face=wall | facing=south | powered=false
+,,4,oak_button,face=wall | facing=north | powered=false
+,,5,oak_button,face=floor | powered=false
+,,8,oak_button,face=ceiling | powered=true
+,,9,oak_button,face=wall | facing=east | powered=true
+,,10,oak_button,face=wall | facing=west | powered=true
+,,11,oak_button,face=wall | facing=south | powered=true
+,,12,oak_button,face=wall | facing=north | powered=true
+,,13,oak_button,face=floor | powered=true
+wooden_door,,0,oak_door,facing=east | half=lower | open=false
+,,1,oak_door,facing=south | half=lower | open=false
+,,2,oak_door,facing=west | half=lower | open=false
+,,3,oak_door,facing=north | half=lower | open=false
+,,4,oak_door,facing=east | half=lower | open=true
+,,5,oak_door,facing=south | half=lower | open=true
+,,6,oak_door,facing=west | half=lower | open=true
+,,7,oak_door,facing=north | half=lower | open=true
+,,8,oak_door,half=upper | hinge=left | powered=false
+,,9,oak_door,half=upper | hinge=right | powered=false
+,,10,oak_door,half=upper | hinge=left | powered=true
+,,11,oak_door,half=upper | hinge=right | powered=true
+,,12,oak_door,half=upper | hinge=left | powered=false
+,,13,oak_door,half=upper | hinge=right | powered=false
+,,14,oak_door,half=upper | hinge=left | powered=true
+,,15,oak_door,half=upper | hinge=right | powered=true
+wooden_pressure_plate,,0,oak_pressure_plate,powered=false
+,,1,oak_pressure_plate,powered=true
+wooden_slab,,0,oak_slab,type=bottom
+,,1,spruce_slab,type=bottom
+,,2,birch_slab,type=bottom
+,,3,jungle_slab,type=bottom
+,,4,acacia_slab,type=bottom
+,,5,dark_oak_slab,type=bottom
+,,8,oak_slab,type=top
+,,9,spruce_slab,type=top
+,,10,birch_slab,type=top
+,,11,jungle_slab,type=top
+,,12,acacia_slab,type=top
+,,13,dark_oak_slab,type=top
+wool,,0,white_wool,
+,,1,orange_wool,
+,,2,magenta_wool,
+,,3,light_blue_wool,
+,,4,yellow_wool,
+,,5,lime_wool,
+,,6,pink_wool,
+,,7,gray_wool,
+,,8,light_gray_wool,
+,,9,cyan_wool,
+,,10,purple_wool,
+,,11,blue_wool,
+,,12,brown_wool,
+,,13,green_wool,
+,,14,red_wool,
+,,15,black_wool,
+yellow_flower,,0,dandelion,
+yellow_glazed_terracotta,,0,yellow_glazed_terracotta,facing=south
+,,1,yellow_glazed_terracotta,facing=west
+,,2,yellow_glazed_terracotta,facing=north
+,,3,yellow_glazed_terracotta,facing=east
+yellow_shulker_box,,0,yellow_shulker_box,facing=down
+,,1,yellow_shulker_box,facing=up
+,,2,yellow_shulker_box,facing=north
+,,3,yellow_shulker_box,facing=south
+,,4,yellow_shulker_box,facing=west
+,,5,yellow_shulker_box,facing=east
